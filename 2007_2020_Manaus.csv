@@ -1,0 +1,1347 @@
+data_inversa;dia_semana;br;km;causa_acidente;tipo_acidente;fase_dia;condicao_metereologica;mortos;ilesos;feridos
+02/01/2007;Terça;174;9.3;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;0;1
+02/01/2007;Terça;174;7.9;Outras;Colisão traseira;Anoitecer;Chuva;0;4;0
+07/01/2007;Domingo;174;52.1;Defeito na via;Capotamento;Pleno dia;Sol;0;0;2
+11/01/2007;Quinta;174;85.8;Outras;Incêndio;Anoitecer;Nevoeiro/neblina;0;1;0
+19/01/2007;Sexta;174;3.3;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+20/01/2007;Sábado;319;0.9;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;2;0
+21/01/2007;Domingo;174;43.3;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;9;0
+29/01/2007;Segunda;174;17.9;Outras;Colisão com objeto fixo;Plena noite;Ceu Claro;0;0;4
+01/02/2007;Quinta;174;858.3;Outras;Colisão traseira;Pleno dia;Sol;0;1;1
+30/01/2007;Terça;174;18;Defeito na via;Colisão com objeto fixo;Plena noite;Ceu Claro;0;5;0
+02/02/2007;Sexta;174;858.5;Outras;Colisão Transversal;Pleno dia;Ceu Claro;0;2;0
+02/02/2007;Sexta;174;25.8;Outras;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+03/02/2007;Sábado;174;39.2;Velocidade incompatível;Colisão traseira;Anoitecer;Ceu Claro;1;0;3
+09/02/2007;Sexta;174;858.5;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;2;0
+10/02/2007;Sábado;174;13.7;Outras;Capotamento;Pleno dia;Chuva;0;1;0
+19/02/2007;Segunda;174;22.4;Outras;Colisão traseira;Pleno dia;Sol;0;2;0
+20/02/2007;Terça;174;4.9;Outras;Colisão frontal;Plena noite;Chuva;0;2;0
+20/02/2007;Terça;319;0.4;Falta de atenção;Colisão com objeto fixo;Plena noite;Nublado;0;0;1
+20/02/2007;Terça;174;3.5;Não guardar distância de segurança;Colisão traseira;Anoitecer;Chuva;0;4;0
+17/02/2007;Sábado;174;45;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;2;2
+27/02/2007;Terça;319;1;Outras;Colisão com objeto fixo;Pleno dia;Chuva;0;1;0
+26/02/2007;Segunda;319;0.3;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;2;0
+03/03/2007;Sábado;174;28;Velocidade incompatível;Colisão traseira;Plena noite;Chuva;0;2;0
+27/02/2007;Terça;174;22.2;Ingestão de álcool;Saída de Pista;Amanhecer;Chuva;0;1;0
+16/03/2007;Sexta;174;53;Defeito na via;Capotamento;Plena noite;Ceu Claro;0;1;0
+25/03/2007;Domingo;174;3.8;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+01/04/2007;Domingo;174;35;Ultrapassagem indevida;Capotamento;Pleno dia;Ceu Claro;0;1;0
+08/04/2007;Domingo;174;57.5;Dormindo;Saída de Pista;Plena noite;Nublado;0;1;0
+08/04/2007;Domingo;174;29.7;Outras;Atropelamento de pessoa;Plena noite;Ceu Claro;1;3;1
+07/04/2007;Sábado;174;25;Ultrapassagem indevida;Capotamento;Anoitecer;Chuva;0;3;0
+08/04/2007;Domingo;174;24.1;Falta de atenção;Saída de Pista;Anoitecer;Nublado;0;0;5
+10/04/2007;Terça;174;91;Outras;Saída de Pista;Anoitecer;Chuva;0;0;0
+13/04/2007;Sexta;174;43;Falta de atenção;Colisão com objeto fixo;Pleno dia;Nublado;0;1;0
+16/04/2007;Segunda;174;21.2;Outras;Capotamento;Pleno dia;Nublado;0;1;1
+16/04/2007;Segunda;174;51.9;Defeito na via;Saída de Pista;Pleno dia;Nublado;0;2;0
+16/04/2007;Segunda;319;1;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;2;0
+17/04/2007;Terça;174;3.9;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;6;0
+22/04/2007;Domingo;174;3.8;Falta de atenção;Colisão frontal;Pleno dia;Chuva;0;0;4
+22/04/2007;Domingo;174;3.7;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+21/04/2007;Sábado;174;91;Defeito na via;Saída de Pista;Plena noite;Nevoeiro/neblina;0;1;0
+26/04/2007;Quinta;174;28.7;Ultrapassagem indevida;Capotamento;Anoitecer;Nublado;0;1;3
+29/04/2007;Domingo;174;48.8;Ultrapassagem indevida;Colisão frontal;Plena noite;Ceu Claro;0;0;6
+28/04/2007;Sábado;174;69.2;Outras;Capotamento;Plena noite;Nevoeiro/neblina;0;0;3
+29/04/2007;Domingo;174;30.8;Desobediência à sinalização;Colisão frontal;Pleno dia;Ceu Claro;2;1;6
+30/04/2007;Segunda;319;1;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+29/04/2007;Domingo;174;80.7;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;1;1
+29/04/2007;Domingo;174;30.5;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;0;3
+06/05/2007;Domingo;174;80.8;Outras;Saída de Pista;Pleno dia;Chuva;0;0;1
+06/05/2007;Domingo;174;42;Ultrapassagem indevida;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+27/05/2007;Domingo;319;0;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;2;0
+30/05/2007;Quarta;174;37.9;Outras;Colisão frontal;Pleno dia;Chuva;0;1;1
+27/05/2007;Domingo;174;4;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;3;0
+08/06/2007;Sexta;174;22.3;Defeito na via;Danos Eventuais;Plena noite;Ceu Claro;0;1;0
+08/06/2007;Sexta;174;22.3;Defeito na via;Danos Eventuais;Plena noite;Ceu Claro;0;1;0
+10/06/2007;Domingo;174;18.4;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+10/06/2007;Domingo;174;8.9;Outras;Capotamento;Pleno dia;Chuva;0;2;2
+16/06/2007;Sábado;174;3.7;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;2;0
+17/06/2007;Domingo;174;30.8;Outras;Saída de Pista;Anoitecer;Ceu Claro;0;0;2
+18/06/2007;Segunda;174;47;Dormindo;Capotamento;Pleno dia;Nublado;0;1;0
+18/06/2007;Segunda;174;5.4;Outras;Colisão traseira;Plena noite;Nevoeiro/neblina;0;2;0
+01/07/2007;Domingo;174;54;Outras;Saída de Pista;Pleno dia;Ceu Claro;1;0;3
+05/07/2007;Quinta;174;50.5;Defeito na via;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+09/07/2007;Segunda;174;2.2;Outras;Colisão lateral;Pleno dia;Ceu Claro;0;1;0
+15/07/2007;Domingo;174;10.5;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+19/07/2007;Quinta;174;0.2;Outras;Colisão frontal;Plena noite;Ignorada;0;1;0
+19/07/2007;Quinta;174;21.3;Animais na Pista;Atropelamento de animal;Plena noite;Ignorada;0;2;0
+22/07/2007;Domingo;174;77.4;Defeito na via;Saída de Pista;Pleno dia;Ceu Claro;0;4;0
+28/07/2007;Sábado;174;10;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;3;0
+29/07/2007;Domingo;174;10.5;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;1;1
+12/08/2007;Domingo;319;1;Falta de atenção;Colisão com objeto fixo;Pleno dia;Sol;0;1;0
+17/08/2007;Sexta;174;37.2;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;1;1
+18/08/2007;Sábado;319;0;Defeito mecânico em veículo;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;0
+20/08/2007;Segunda;174;28;Desobediência à sinalização;Colisão traseira;Pleno dia;Chuva;0;2;0
+25/08/2007;Sábado;319;0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+26/08/2007;Domingo;174;60.3;Ultrapassagem indevida;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+26/08/2007;Domingo;174;50.4;Defeito na via;Colisão lateral;Pleno dia;Sol;0;9;0
+02/09/2007;Domingo;174;14.5;Outras;Colisão traseira;Pleno dia;Chuva;0;3;0
+06/09/2007;Quinta;174;55.3;Defeito na via;Capotamento;Pleno dia;Ceu Claro;0;2;0
+07/09/2007;Sexta;319;0.9;Outras;Colisão com objeto fixo;Pleno dia;Sol;0;5;0
+07/09/2007;Sexta;174;35;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+07/09/2007;Sexta;174;52.4;Defeito na via;Colisão traseira;Plena noite;Ignorada;0;2;0
+12/09/2007;Quarta;174;25;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+15/09/2007;Sábado;174;68.7;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;1;2
+22/09/2007;Sábado;174;28.4;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;4;0
+23/09/2007;Domingo;174;3.6;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;5;0
+30/09/2007;Domingo;174;1;Ingestão de álcool;Colisão traseira;Pleno dia;Ceu Claro;0;1;1
+04/10/2007;Quinta;319;1;Falta de atenção;Colisão lateral;Plena noite;Ceu Claro;0;2;0
+07/10/2007;Domingo;319;40;Falta de atenção;Saída de Pista;Anoitecer;Ceu Claro;1;0;3
+07/10/2007;Domingo;174;7;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Sol;0;1;0
+14/10/2007;Domingo;174;11;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+14/10/2007;Domingo;174;10;Outras;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;1;1
+15/10/2007;Segunda;174;1;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;0;5
+24/10/2007;Quarta;174;48.1;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;3;0
+04/11/2007;Domingo;174;23;Outras;Saída de Pista;Pleno dia;Sol;0;4;1
+04/11/2007;Domingo;174;11;Velocidade incompatível;Capotamento;Pleno dia;Ceu Claro;0;2;1
+05/10/2007;Sexta;174;74;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;2;2
+10/11/2007;Sábado;174;30;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+11/11/2007;Domingo;174;44.3;Dormindo;Capotamento;Pleno dia;Ceu Claro;0;0;1
+14/11/2007;Quarta;174;73;Falta de atenção;Colisão lateral;Plena noite;Ceu Claro;0;0;3
+19/11/2007;Segunda;174;65;Dormindo;Colisão com objeto fixo;Anoitecer;Nublado;0;1;2
+19/11/2007;Segunda;319;0.4;Falta de atenção;Colisão com objeto fixo;Anoitecer;Ceu Claro;0;1;0
+21/11/2007;Quarta;174;57.8;Animais na Pista;Saída de Pista;Plena noite;Ceu Claro;0;0;2
+22/11/2007;Quinta;174;12.9;Velocidade incompatível;Colisão frontal;Pleno dia;Nublado;1;0;2
+26/11/2007;Segunda;174;85;Falta de atenção;Saída de Pista;Amanhecer;Ceu Claro;0;0;1
+14/10/2007;Domingo;174;11;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+07/12/2007;Sexta;174;70;Dormindo;Saída de Pista;Plena noite;Nublado;0;1;0
+09/12/2007;Domingo;174;33.9;Outras;Colisão traseira;Anoitecer;Chuva;0;7;1
+13/12/2007;Quinta;174;3.4;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;2;2
+15/12/2007;Sábado;174;62.4;Defeito mecânico em veículo;Colisão lateral;Pleno dia;Ceu Claro;0;2;4
+19/12/2007;Quarta;174;10.6;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+20/12/2007;Quinta;174;6.3;Ultrapassagem indevida;Colisão traseira;Pleno dia;Sol;0;0;3
+23/12/2007;Domingo;174;3.5;Animais na Pista;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+22/12/2007;Sábado;174;7.7;Defeito na via;Saída de Pista;Plena noite;Nublado;0;1;0
+25/12/2007;Terça;174;76.2;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;6;0
+21/12/2007;Sexta;319;0.6;Ingestão de álcool;Colisão frontal;Plena noite;Ceu Claro;0;1;1
+29/12/2007;Sábado;174;8;Falta de atenção;Colisão lateral;Plena noite;Chuva;0;4;0
+31/12/2007;Segunda;174;57;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;4;2
+02/04/2007;Segunda;174;41;Ingestão de álcool;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+28/04/2007;Sábado;174;35.2;Outras;Saída de Pista;Plena noite;Ceu Claro;1;0;2
+05/01/2008;Sábado;174;50;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+11/01/2008;Sexta;174;28;Outras;Saída de Pista;Pleno dia;Nublado;0;2;0
+18/01/2008;Sexta;174;61;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;1
+20/01/2008;Domingo;174;30;Outras;Atropelamento de pessoa;Plena noite;Ceu Claro;0;1;1
+24/01/2008;Quinta;174;78;Velocidade incompatível;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+25/01/2008;Sexta;174;30.8;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Chuva;0;1;0
+25/01/2008;Sexta;174;87;Outras;Saída de Pista;Pleno dia;Nublado;0;1;0
+23/01/2008;Quarta;174;25;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;5
+26/01/2008;Sábado;174;4.6;Não guardar distância de segurança;Colisão traseira;Plena noite;Chuva;0;1;1
+29/01/2008;Terça;174;18.8;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;3;1
+30/01/2008;Quarta;174;51;Defeito na via;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+02/02/2008;Sábado;174;103;Outras;Colisão Transversal;Pleno dia;Ceu Claro;0;2;3
+04/02/2008;Segunda;174;53.9;Outras;Saída de Pista;Pleno dia;Chuva;0;0;2
+03/02/2008;Domingo;174;3.3;Não guardar distância de segurança;Colisão traseira;Anoitecer;Chuva;0;2;0
+08/02/2008;Sexta;174;4.2;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;4;0
+17/02/2008;Domingo;174;52.6;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;7;0
+19/02/2008;Terça;174;29.5;Outras;Saída de Pista;Pleno dia;Chuva;0;0;2
+17/02/2008;Domingo;174;2.4;Não guardar distância de segurança;Colisão lateral;Pleno dia;Chuva;0;2;3
+16/02/2008;Sábado;174;76;Animais na Pista;Atropelamento de animal;Pleno dia;Ceu Claro;0;0;2
+25/02/2008;Segunda;174;7.7;Outras;Colisão frontal;Plena noite;Ceu Claro;1;1;1
+02/03/2008;Domingo;174;55.4;Outras;Capotamento;Pleno dia;Ceu Claro;0;2;0
+02/03/2008;Domingo;174;51;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+29/02/2008;Sexta;174;49;Defeito na via;Colisão com objeto fixo;Plena noite;Nublado;0;3;0
+29/02/2008;Sexta;174;49;Defeito na via;Colisão com objeto fixo;Plena noite;Nublado;0;1;0
+04/03/2008;Terça;174;26.9;Ingestão de álcool;Tombamento;Plena noite;Ceu Claro;0;0;1
+06/03/2008;Quinta;174;28.4;Velocidade incompatível;Colisão com objeto fixo;Pleno dia;Chuva;0;2;0
+08/03/2008;Sábado;174;29;Falta de atenção;Capotamento;Pleno dia;Chuva;0;3;0
+08/03/2008;Sábado;174;55.4;Defeito na via;Capotamento;Pleno dia;Nublado;0;1;1
+09/03/2008;Domingo;174;109.5;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+21/03/2008;Sexta;174;13;Outras;Colisão traseira;Pleno dia;Chuva;0;0;3
+21/03/2008;Sexta;174;10.9;Velocidade incompatível;Saída de Pista;Plena noite;Chuva;0;1;2
+19/03/2008;Quarta;174;22;Falta de atenção;Atropelamento de pessoa;Plena noite;Ignorada;0;0;1
+23/03/2008;Domingo;174;36;Defeito na via;Saída de Pista;Pleno dia;Chuva;0;2;3
+30/03/2008;Domingo;174;64;Falta de atenção;Tombamento;Pleno dia;Sol;0;0;4
+30/03/2008;Domingo;174;30;Outras;Saída de Pista;Pleno dia;Chuva;0;0;1
+30/03/2008;Domingo;174;25.8;Defeito mecânico em veículo;Saída de Pista;Plena noite;Chuva;0;0;4
+12/04/2008;Sábado;174;66;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;0
+12/04/2008;Sábado;174;71.5;Animais na Pista;Atropelamento de animal;Plena noite;Nevoeiro/neblina;0;3;0
+13/04/2008;Domingo;174;43;Defeito na via;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;0
+13/04/2008;Domingo;174;43;Defeito na via;Colisão com objeto fixo;Anoitecer;Ceu Claro;0;1;0
+13/04/2008;Domingo;174;43;Defeito na via;Colisão com objeto fixo;Anoitecer;Ceu Claro;0;1;0
+13/04/2008;Domingo;174;43;Defeito na via;Colisão com objeto fixo;Anoitecer;Ceu Claro;0;1;0
+17/04/2008;Quinta;174;22.6;Ultrapassagem indevida;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+26/04/2008;Sábado;174;0.6;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;4;0
+27/04/2008;Domingo;174;54;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+02/05/2008;Sexta;319;0.8;Não guardar distância de segurança;Colisão frontal;Pleno dia;Ceu Claro;0;2;0
+04/05/2008;Domingo;174;1;Velocidade incompatível;Tombamento;Plena noite;Ignorada;0;0;0
+04/05/2008;Domingo;174;50.5;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;4;2
+07/05/2008;Quarta;174;2;Velocidade incompatível;Colisão frontal;Pleno dia;Chuva;3;2;14
+08/05/2008;Quinta;174;42.2;Falta de atenção;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;0;2
+07/05/2008;Quarta;174;7;Defeito na via;Tombamento;Pleno dia;Nublado;0;6;1
+13/05/2008;Terça;174;50.8;Defeito na via;Saída de Pista;Plena noite;Ignorada;0;1;1
+17/05/2008;Sábado;174;11;Defeito na via;Colisão frontal;Pleno dia;Nublado;1;0;1
+27/05/2008;Terça;174;4;Defeito mecânico em veículo;Capotamento;Pleno dia;Ceu Claro;0;3;0
+31/05/2008;Sábado;174;28;Defeito na via;Saída de Pista;Plena noite;Nublado;0;0;2
+31/05/2008;Sábado;174;36;Não guardar distância de segurança;Colisão traseira;Plena noite;Nevoeiro/neblina;0;2;0
+01/06/2008;Domingo;174;52.3;Falta de atenção;Colisão traseira;Amanhecer;Ceu Claro;0;1;2
+03/06/2008;Terça;174;3.3;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;1;3
+01/06/2008;Domingo;174;14.3;Ingestão de álcool;Colisão traseira;Pleno dia;Chuva;0;3;2
+13/06/2008;Sexta;319;1;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;2;0
+19/06/2008;Quinta;319;0.7;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+21/06/2008;Sábado;319;1;Falta de atenção;Colisão com objeto fixo;Amanhecer;Ceu Claro;0;3;0
+27/06/2008;Sexta;319;0.5;Outras;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;0
+29/06/2008;Domingo;174;10.5;Falta de atenção;Colisão traseira;Anoitecer;Ceu Claro;0;3;0
+26/06/2008;Quinta;319;0.4;Defeito mecânico em veículo;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;0
+06/07/2008;Domingo;174;63.4;Falta de atenção;Capotamento;Pleno dia;Ceu Claro;0;3;0
+06/07/2008;Domingo;174;2;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;5
+28/07/2008;Segunda;174;2;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;1;2
+03/08/2008;Domingo;174;62.9;Falta de atenção;Saída de Pista;Pleno dia;Sol;0;1;0
+04/08/2008;Segunda;174;18.9;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;2;1
+06/08/2008;Quarta;319;0.9;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+05/08/2008;Terça;174;25.9;Outras;Capotamento;Pleno dia;Sol;0;1;0
+06/08/2008;Quarta;174;36;Desobediência à sinalização;Saída de Pista;Pleno dia;Sol;0;1;0
+12/08/2008;Terça;174;28.2;Outras;Colisão traseira;Plena noite;Ceu Claro;0;3;0
+10/08/2008;Domingo;174;15;Outras;Colisão frontal;Pleno dia;Ceu Claro;0;0;6
+14/08/2008;Quinta;319;0.7;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;1;1
+27/08/2008;Quarta;174;14;Falta de atenção;Colisão com objeto móvel;Pleno dia;Ceu Claro;0;1;2
+03/09/2008;Quarta;174;2.6;Outras;Colisão Transversal;Pleno dia;Chuva;0;2;0
+30/08/2008;Sábado;174;11;Falta de atenção;Colisão traseira;Anoitecer;Nublado;0;2;1
+06/09/2008;Sábado;319;0;Velocidade incompatível;Colisão com objeto fixo;Plena noite;Ceu Claro;0;0;1
+07/09/2008;Domingo;174;1;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;3;0
+07/09/2008;Domingo;174;52.3;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;2;0
+07/09/2008;Domingo;174;0.3;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+12/09/2008;Sexta;319;1;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;5;0
+14/09/2008;Domingo;174;28;Outras;Colisão traseira;Pleno dia;Chuva;0;7;1
+06/09/2008;Sábado;174;106;Outras;Colisão frontal;Anoitecer;Chuva;0;2;3
+25/09/2008;Quinta;174;43;Defeito mecânico em veículo;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;1;0
+06/10/2008;Segunda;174;1;Outras;Colisão traseira;Pleno dia;Chuva;0;3;0
+01/10/2008;Quarta;174;1;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+03/10/2008;Sexta;174;2;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+07/10/2008;Terça;174;25.3;Outras;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+27/10/2008;Segunda;319;0.7;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;2;0
+24/10/2008;Sexta;174;1.2;Falta de atenção;Colisão frontal;Pleno dia;Ceu Claro;0;1;1
+30/10/2008;Quinta;174;12.5;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+02/11/2008;Domingo;319;1;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+02/11/2008;Domingo;174;2;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Chuva;0;2;1
+03/11/2008;Segunda;174;3.3;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;2;0
+01/11/2008;Sábado;174;10.9;Ingestão de álcool;Saída de Pista;Pleno dia;Nublado;1;0;7
+05/11/2008;Quarta;174;20.2;Outras;Saída de Pista;Pleno dia;Chuva;0;2;0
+12/11/2008;Quarta;174;162.6;Outras;Saída de Pista;Plena noite;Ceu Claro;0;3;0
+15/11/2008;Sábado;319;0.7;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+22/11/2008;Sábado;319;1;Defeito mecânico em veículo;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;0
+23/11/2008;Domingo;174;7.9;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+08/12/2008;Segunda;174;4;Outras;Saída de Pista;Pleno dia;Chuva;0;3;0
+09/12/2008;Terça;319;1;Outras;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+15/12/2008;Segunda;174;18.1;Outras;Colisão com objeto móvel;Plena noite;Chuva;0;2;1
+16/12/2008;Terça;174;40.2;Outras;Colisão traseira;Anoitecer;Chuva;0;2;0
+18/12/2008;Quinta;174;50.3;Outras;Saída de Pista;Plena noite;Chuva;0;2;0
+20/12/2008;Sábado;319;0.5;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+22/12/2008;Segunda;174;39.7;Animais na Pista;Saída de Pista;Plena noite;Ceu Claro;0;5;0
+23/12/2008;Terça;174;4.6;Outras;Tombamento;Pleno dia;Nublado;0;2;0
+25/12/2008;Quinta;174;39;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+27/12/2008;Sábado;174;11.9;Falta de atenção;Colisão frontal;Pleno dia;Chuva;0;2;0
+30/12/2008;Terça;174;84.1;Outras;Capotamento;Pleno dia;Ceu Claro;0;3;2
+31/12/2008;Quarta;174;25.8;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;0
+19/12/2008;Sexta;319;0.9;Falta de atenção;Colisão com objeto fixo;Pleno dia;Sol;0;2;0
+02/01/2009;Sexta;174;47.3;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;4;1
+04/01/2009;Domingo;319;1.0;Outras;Colisão com objeto fixo;Pleno dia;Sol;0;2;0
+04/01/2009;Domingo;174;10.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;4;0
+05/01/2009;Segunda;174;73.8;Outras;Atropelamento de pessoa;Plena noite;Ceu Claro;1;0;0
+11/01/2009;Domingo;174;123.5;Defeito na via;Saída de Pista;Pleno dia;Ceu Claro;0;1;1
+13/01/2009;Terça;174;43.0;Falta de atenção;Saída de Pista;Amanhecer;Nublado;0;2;0
+25/01/2009;Domingo;319;13.0;Falta de atenção;Colisão frontal;Pleno dia;Ceu Claro;0;3;0
+24/01/2009;Sábado;174;19.0;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;2;2
+28/01/2009;Quarta;174;4.0;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Nublado;0;6;0
+06/02/2009;Sexta;174;71.0;Animais na Pista;Atropelamento de animal;Plena noite;Ceu Claro;0;2;0
+31/01/2009;Sábado;174;33.5;Ultrapassagem indevida;Colisão frontal;Pleno dia;Chuva;0;4;0
+22/02/2009;Domingo;174;5.8;Outras;Saída de Pista;Pleno dia;Nublado;0;0;1
+21/02/2009;Sábado;174;10.0;Falta de atenção;Colisão frontal;Plena noite;Ignorada;0;3;3
+21/02/2009;Sábado;174;25.8;Outras;Saída de Pista;Pleno dia;Chuva;0;6;1
+24/02/2009;Terça;174;27.9;Outras;Saída de Pista;Plena noite;Chuva;0;0;2
+04/03/2009;Quarta;174;19.0;Defeito na via;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+19/03/2009;Quinta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+22/03/2009;Domingo;319;1.0;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+21/03/2009;Sábado;174;3.7;Falta de atenção;Colisão lateral;Pleno dia;Chuva;0;2;0
+23/03/2009;Segunda;174;80.8;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+05/04/2009;Domingo;174;84.0;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+08/04/2009;Quarta;174;1.9;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;1;1
+11/04/2009;Sábado;174;42.0;Velocidade incompatível;Capotamento;Pleno dia;Chuva;0;1;2
+11/04/2009;Sábado;174;58.0;Defeito mecânico em veículo;Saída de Pista;Plena noite;Chuva;0;2;0
+11/04/2009;Sábado;174;42.0;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;0
+11/04/2009;Sábado;174;61.7;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+09/04/2009;Quinta;174;53.2;Falta de atenção;Capotamento;Pleno dia;Ceu Claro;0;0;1
+16/04/2009;Quinta;174;8.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;0;2
+12/04/2009;Domingo;174;18.7;Falta de atenção;Atropelamento de pessoa;Pleno dia;Nublado;0;4;1
+17/04/2009;Sexta;174;33.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;5;0
+19/04/2009;Domingo;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Chuva;0;2;0
+15/04/2009;Quarta;174;4.0;Outras;Saída de Pista;Pleno dia;Ceu Claro;1;0;5
+19/04/2009;Domingo;174;78.6;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;0
+19/04/2009;Domingo;319;48.0;Defeito na via;Colisão traseira;Plena noite;Nublado;0;2;0
+19/04/2009;Domingo;319;21.0;Outras;Saída de Pista;Plena noite;Nublado;0;1;0
+21/04/2009;Terça;174;3.8;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;3;1
+25/04/2009;Sábado;174;27.5;Não guardar distância de segurança;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+21/04/2009;Terça;174;3.8;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;2;0
+27/04/2009;Segunda;174;45.0;Outras;Saída de Pista;Pleno dia;Chuva;0;0;2
+29/04/2009;Quarta;174;14.0;Falta de atenção;Colisão Transversal;Plena noite;Chuva;0;1;2
+27/04/2009;Segunda;174;31.4;Falta de atenção;Colisão frontal;Pleno dia;Ceu Claro;0;0;4
+01/05/2009;Sexta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;2;0
+11/05/2009;Segunda;174;35.4;Outras;Colisão traseira;Pleno dia;Chuva;0;3;3
+09/05/2009;Sábado;174;89.0;Dormindo;Capotamento;Pleno dia;Nublado;0;0;2
+13/05/2009;Quarta;174;17.8;Outras;Capotamento;Pleno dia;Chuva;0;5;0
+15/05/2009;Sexta;174;11.7;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;3;1
+17/05/2009;Domingo;174;11.6;Outras;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+21/05/2009;Quinta;174;44.0;Ingestão de álcool;Colisão frontal;Pleno dia;Nublado;0;1;4
+28/05/2009;Quinta;174;4.5;Ultrapassagem indevida;Tombamento;Pleno dia;Nublado;0;2;0
+31/05/2009;Domingo;174;6.0;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+31/05/2009;Domingo;174;81.0;Defeito mecânico em veículo;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;0;1
+31/05/2009;Domingo;174;0.8;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;6;0
+31/05/2009;Domingo;174;0.4;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+01/06/2009;Segunda;174;26.0;Outras;Colisão Transversal;Pleno dia;Chuva;0;3;0
+29/05/2009;Sexta;319;1.0;Falta de atenção;Colisão com objeto fixo;Anoitecer;Ceu Claro;0;3;0
+02/06/2009;Terça;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;2;0
+30/05/2009;Sábado;174;60.0;Outras;Atropelamento de pessoa;Plena noite;Ignorada;0;3;1
+04/06/2009;Quinta;174;97.0;Outras;Capotamento;Pleno dia;Ceu Claro;0;0;1
+04/06/2009;Quinta;174;130.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Chuva;0;1;0
+03/06/2009;Quarta;174;18.0;Velocidade incompatível;Colisão traseira;Pleno dia;Chuva;0;2;0
+31/05/2009;Domingo;174;34.0;Dormindo;Capotamento;Pleno dia;Ceu Claro;0;2;2
+06/06/2009;Sábado;174;159.0;Dormindo;Tombamento;Amanhecer;Ignorada;0;1;0
+31/05/2009;Domingo;174;61.0;Outras;Colisão traseira;Pleno dia;Chuva;0;4;1
+02/06/2009;Terça;174;17.0;Outras;Saída de Pista;Anoitecer;Chuva;0;2;0
+07/06/2009;Domingo;174;58.3;Ultrapassagem indevida;Colisão frontal;Pleno dia;Nublado;0;2;10
+31/05/2009;Domingo;174;16.0;Falta de atenção;Saída de Pista;Pleno dia;Nublado;0;1;0
+11/06/2009;Quinta;319;1.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+07/06/2009;Domingo;174;16.0;Falta de atenção;Colisão frontal;Pleno dia;Nublado;0;3;0
+07/06/2009;Domingo;174;119.7;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;4;0
+10/06/2009;Quarta;174;35.5;Defeito mecânico em veículo;Capotamento;Amanhecer;Ceu Claro;0;2;0
+12/06/2009;Sexta;174;29.8;Defeito mecânico em veículo;Saída de Pista;Anoitecer;Nublado;0;1;0
+18/06/2009;Quinta;319;0.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+15/06/2009;Segunda;174;162.5;Defeito mecânico em veículo;Capotamento;Pleno dia;Ceu Claro;0;2;0
+21/06/2009;Domingo;174;11.4;Ultrapassagem indevida;Colisão lateral;Pleno dia;Sol;0;1;2
+28/06/2009;Domingo;174;0.7;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;2;1
+05/07/2009;Domingo;174;52.5;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+13/06/2009;Sábado;174;18.0;Outras;Colisão frontal;Pleno dia;Chuva;0;3;0
+10/07/2009;Sexta;174;28.9;Outras;Colisão traseira;Pleno dia;Chuva;0;3;2
+13/07/2009;Segunda;174;75.1;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+17/07/2009;Sexta;174;25.6;Outras;Saída de Pista;Pleno dia;Chuva;0;0;0
+18/07/2009;Sábado;174;65.1;Ingestão de álcool;Colisão traseira;Plena noite;Ceu Claro;0;2;0
+20/07/2009;Segunda;319;0.3;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Sol;0;2;0
+19/07/2009;Domingo;174;18.4;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;12;0
+24/07/2009;Sexta;174;1.3;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;1;1
+22/07/2009;Quarta;174;9.6;Dormindo;Tombamento;Plena noite;Ceu Claro;0;1;0
+02/08/2009;Domingo;174;65.2;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;3;0
+02/08/2009;Domingo;174;23.2;Ingestão de álcool;Colisão traseira;Plena noite;Ceu Claro;0;1;2
+08/08/2009;Sábado;174;1.0;Ingestão de álcool;Colisão Transversal;Plena noite;Ceu Claro;0;2;0
+22/08/2009;Sábado;174;8.0;Dormindo;Tombamento;Plena noite;Ceu Claro;0;1;0
+24/08/2009;Segunda;174;27.4;Outras;Colisão traseira;Plena noite;Ceu Claro;0;28;1
+30/08/2009;Domingo;174;58.2;Defeito na via;Saída de Pista;Pleno dia;Chuva;0;0;2
+31/08/2009;Segunda;174;37.2;Outras;Colisão traseira;Pleno dia;Chuva;0;4;0
+31/08/2009;Segunda;174;79.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;4;1
+06/09/2009;Domingo;174;53.0;Defeito na via;Saída de Pista;Pleno dia;Sol;0;5;0
+07/09/2009;Segunda;174;47.7;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;3;2
+30/08/2009;Domingo;174;17.0;Desobediência à sinalização;Colisão lateral;Pleno dia;Ceu Claro;0;3;2
+05/09/2009;Sábado;174;20.5;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;5;2
+06/09/2009;Domingo;174;30.0;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;9;0
+07/09/2009;Segunda;319;0.8;Outras;Colisão lateral;Pleno dia;Ceu Claro;0;3;0
+15/09/2009;Terça;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;3;0
+16/09/2009;Quarta;174;43.0;Ingestão de álcool;Colisão com objeto móvel;Plena noite;Ceu Claro;0;1;0
+07/09/2009;Segunda;174;55.5;Ingestão de álcool;Colisão traseira;Pleno dia;Ceu Claro;0;5;2
+27/09/2009;Domingo;319;1.0;Ingestão de álcool;Colisão lateral;Pleno dia;Sol;0;2;0
+06/09/2009;Domingo;174;30.5;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+01/10/2009;Quinta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;3;0
+09/10/2009;Sexta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+10/10/2009;Sábado;174;2.0;Outras;Saída de Pista;Pleno dia;Chuva;0;0;1
+16/10/2009;Sexta;319;0.9;Animais na Pista;Queda de motocicleta / bicicleta / veículo;Plena noite;Nublado;0;0;1
+17/10/2009;Sábado;174;53.0;Defeito mecânico em veículo;Capotamento;Pleno dia;Ceu Claro;0;0;2
+20/10/2009;Terça;174;14.0;Outras;Saída de Pista;Plena noite;Chuva;0;1;1
+17/10/2009;Sábado;319;1.0;Defeito mecânico em veículo;Tombamento;Pleno dia;Ceu Claro;0;2;0
+24/10/2009;Sábado;174;30.0;Outras;Colisão traseira;Pleno dia;Sol;0;2;1
+24/10/2009;Sábado;174;8.0;Outras;Colisão lateral;Pleno dia;Ceu Claro;0;4;0
+24/10/2009;Sábado;174;2.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+25/10/2009;Domingo;174;44.0;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+25/10/2009;Domingo;174;11.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+30/10/2009;Sexta;174;106.0;Outras;Capotamento;Anoitecer;Chuva;0;2;1
+31/10/2009;Sábado;174;9.5;Velocidade incompatível;Saída de Pista;Pleno dia;Nublado;0;1;0
+31/10/2009;Sábado;174;5.8;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+01/11/2009;Domingo;174;84.0;Defeito mecânico em veículo;Capotamento;Pleno dia;Ceu Claro;0;0;4
+01/11/2009;Domingo;174;52.0;Outras;Capotamento;Pleno dia;Ceu Claro;0;2;2
+31/10/2009;Sábado;174;5.7;Ingestão de álcool;Colisão traseira;Pleno dia;Chuva;0;2;0
+02/11/2009;Segunda;174;7.4;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+02/11/2009;Segunda;174;18.0;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;0;2
+14/11/2009;Sábado;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;2;0
+15/11/2009;Domingo;174;7.0;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;6;2
+14/11/2009;Sábado;174;31.0;Ingestão de álcool;Colisão frontal;Plena noite;Nublado;0;2;2
+14/11/2009;Sábado;174;21.0;Não guardar distância de segurança;Colisão traseira;Anoitecer;Nublado;0;4;0
+01/12/2009;Terça;174;20.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;5;0
+03/12/2009;Quinta;174;67.8;Animais na Pista;Atropelamento de animal;Plena noite;Ceu Claro;0;1;0
+06/12/2009;Domingo;174;57.0;Velocidade incompatível;Saída de Pista;Plena noite;Ceu Claro;3;0;3
+07/12/2009;Segunda;174;1.0;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;1;3
+10/12/2009;Quinta;174;43.0;Falta de atenção;Saída de Pista;Amanhecer;Chuva;0;3;0
+13/12/2009;Domingo;174;75.2;Defeito mecânico em veículo;Incêndio;Plena noite;Nevoeiro/neblina;0;4;0
+15/12/2009;Terça;174;24.5;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;0;5
+15/12/2009;Terça;174;3.0;Defeito mecânico em veículo;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+20/12/2009;Domingo;174;7.5;Velocidade incompatível;Colisão traseira;Pleno dia;Nublado;0;6;1
+29/12/2009;Terça;174;3.9;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;2;0
+27/12/2009;Domingo;174;10.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;6;0
+02/11/2009;Segunda;174;6.0;Ultrapassagem indevida;Colisão frontal;Pleno dia;Nublado;0;1;6
+02/01/2010;Sábado;174;2.3;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;21;0
+02/01/2010;Sábado;174;3.0;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;8;0
+03/01/2010;Domingo;174;16.2;Dormindo;Saída de Pista;Plena noite;Nublado;0;1;3
+06/01/2010;Quarta;174;83.4;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+14/01/2010;Quinta;174;75.0;Outras;Colisão traseira;Anoitecer;Ceu Claro;0;2;0
+16/01/2010;Sábado;174;41.0;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;6
+23/01/2010;Sábado;319;0.0;Outras;Colisão lateral;Pleno dia;Nublado;0;2;0
+25/01/2010;Segunda;174;1.9;Falta de atenção;Colisão frontal;Pleno dia;Ceu Claro;0;2;0
+28/01/2010;Quinta;174;28.0;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;1;1
+31/01/2010;Domingo;174;77.6;Falta de atenção;Saída de Pista;Amanhecer;Ceu Claro;0;2;0
+31/01/2010;Domingo;174;54.5;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+12/02/2010;Sexta;174;31.3;Ultrapassagem indevida;Saída de Pista;Pleno dia;Chuva;0;3;0
+16/02/2010;Terça;174;81.0;Ultrapassagem indevida;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+13/02/2010;Sábado;174;41.0;Outras;Saída de Pista;Plena noite;Nublado;0;0;2
+14/02/2010;Domingo;174;65.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;6;1
+16/02/2010;Terça;174;59.4;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+20/02/2010;Sábado;174;35.0;Defeito mecânico em veículo;Queda de motocicleta / bicicleta / veículo;Anoitecer;Ceu Claro;0;0;2
+21/02/2010;Domingo;174;4.0;Outras;Saída de Pista;Anoitecer;Chuva;0;1;0
+15/02/2010;Segunda;174;36.0;Falta de atenção;Colisão Transversal;Plena noite;Ceu Claro;0;2;1
+16/02/2010;Terça;174;36.4;Ultrapassagem indevida;Colisão frontal;Pleno dia;Nublado;0;11;3
+22/02/2010;Segunda;174;68.0;Velocidade incompatível;Atropelamento de pessoa;Amanhecer;Ceu Claro;0;1;1
+21/02/2010;Domingo;174;25.7;Velocidade incompatível;Saída de Pista;Plena noite;Chuva;0;5;0
+06/03/2010;Sábado;174;54.0;Dormindo;Saída de Pista;Amanhecer;Ceu Claro;0;0;0
+10/03/2010;Quarta;174;21.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;2
+22/03/2010;Segunda;319;0.8;Falta de atenção;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;2;0
+07/03/2010;Domingo;174;3.8;Ultrapassagem indevida;Colisão traseira;Pleno dia;Chuva;0;6;0
+26/03/2010;Sexta;174;44.8;Velocidade incompatível;Saída de Pista;Plena noite;Chuva;0;2;0
+25/03/2010;Quinta;174;80.9;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;1;0
+31/03/2010;Quarta;174;58.0;Outras;Saída de Pista;Plena noite;Chuva;0;1;0
+01/04/2010;Quinta;174;39.0;Não guardar distância de segurança;Colisão traseira;Anoitecer;Nublado;0;2;0
+07/03/2010;Domingo;174;23.5;Outras;Colisão traseira;Pleno dia;Chuva;0;3;1
+02/04/2010;Sexta;174;43.1;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;9;0
+19/03/2010;Sexta;174;30.5;Outras;Colisão Transversal;Pleno dia;Ceu Claro;0;2;1
+11/04/2010;Domingo;174;65.0;Não guardar distância de segurança;Colisão traseira;Plena noite;Ceu Claro;0;3;5
+25/04/2010;Domingo;174;25.8;Falta de atenção;Saída de Pista;Plena noite;Chuva;1;0;3
+25/04/2010;Domingo;174;19.5;Ingestão de álcool;Colisão frontal;Pleno dia;Chuva;0;14;0
+26/04/2010;Segunda;174;29.0;Não guardar distância de segurança;Colisão traseira;Amanhecer;Chuva;0;1;1
+29/04/2010;Quinta;174;21.5;Velocidade incompatível;Colisão com objeto fixo;Pleno dia;Nublado;0;1;0
+18/04/2010;Domingo;174;58.0;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;0
+01/05/2010;Sábado;174;2.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;7;1
+04/05/2010;Terça;174;67.4;Outras;Saída de Pista;Plena noite;Ignorada;0;3;0
+02/05/2010;Domingo;174;0.5;Falta de atenção;Colisão frontal;Amanhecer;Nevoeiro/neblina;1;1;0
+27/04/2010;Terça;174;62.5;Ultrapassagem indevida;Colisão com objeto fixo;Amanhecer;Nublado;0;2;0
+18/04/2010;Domingo;174;80.0;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;4;1
+09/05/2010;Domingo;174;24.9;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+09/05/2010;Domingo;174;113.0;Ingestão de álcool;Queda de motocicleta / bicicleta / veículo;Pleno dia;Nublado;0;0;3
+08/05/2010;Sábado;174;51.0;Falta de atenção;Capotamento;Plena noite;Nublado;0;0;0
+09/05/2010;Domingo;174;70.0;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;0;0
+15/05/2010;Sábado;174;30.0;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;4;1
+21/05/2010;Sexta;174;37.8;Outras;Colisão Transversal;Pleno dia;Nublado;0;5;2
+21/05/2010;Sexta;174;46.8;Dormindo;Saída de Pista;Plena noite;Nublado;0;0;1
+28/05/2010;Sexta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;2;0
+29/05/2010;Sábado;174;29.0;Falta de atenção;Saída de Pista;Pleno dia;Nublado;0;0;2
+30/05/2010;Domingo;174;27.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+29/05/2010;Sábado;174;5.0;Ultrapassagem indevida;Colisão Transversal;Pleno dia;Nublado;0;3;0
+29/05/2010;Sábado;174;16.6;Falta de atenção;Queda de motocicleta / bicicleta / veículo;Plena noite;Ceu Claro;0;0;1
+30/05/2010;Domingo;174;36.2;Outras;Colisão Transversal;Plena noite;Ceu Claro;0;4;0
+29/05/2010;Sábado;174;19.0;Dormindo;Saída de Pista;Pleno dia;Nublado;0;2;1
+30/05/2010;Domingo;174;36.2;Não guardar distância de segurança;Colisão traseira;Plena noite;Nublado;0;6;0
+05/06/2010;Sábado;174;78.2;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;6;0
+30/05/2010;Domingo;174;83.5;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;6;2
+25/05/2010;Terça;174;1.0;Não guardar distância de segurança;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+19/06/2010;Sábado;174;21.0;Outras;Saída de Pista;Plena noite;Nublado;0;1;1
+19/06/2010;Sábado;174;41.0;Velocidade incompatível;Derramamento de Carga;Anoitecer;Nevoeiro/neblina;0;0;0
+25/06/2010;Sexta;174;18.2;Velocidade incompatível;Saída de Pista;Pleno dia;Ignorada;0;0;4
+06/07/2010;Terça;174;72.2;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+03/06/2010;Quinta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;2;0
+09/07/2010;Sexta;319;1.0;Falta de atenção;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;2;0
+04/07/2010;Domingo;174;53.2;Ingestão de álcool;Capotamento;Plena noite;Ceu Claro;0;0;2
+16/07/2010;Sexta;174;30.2;Velocidade incompatível;Colisão traseira;Pleno dia;Nublado;0;2;0
+16/07/2010;Sexta;174;4.0;Falta de atenção;Colisão Transversal;Pleno dia;Nublado;0;3;0
+19/07/2010;Segunda;174;90.4;Defeito mecânico em veículo;Saída de Pista;Amanhecer;Nublado;0;3;1
+22/07/2010;Quinta;174;78.5;Velocidade incompatível;Capotamento;Pleno dia;Chuva;0;2;0
+23/07/2010;Sexta;174;80.5;Outras;Saída de Pista;Plena noite;Ceu Claro;0;1;1
+24/07/2010;Sábado;174;4.6;Velocidade incompatível;Colisão frontal;Pleno dia;Chuva;1;1;5
+23/07/2010;Sexta;174;80.5;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+27/07/2010;Terça;174;71.1;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;3;0
+25/07/2010;Domingo;174;9.8;Outras;Colisão frontal;Pleno dia;Ceu Claro;1;0;3
+31/07/2010;Sábado;319;0.8;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+01/08/2010;Domingo;174;3.5;Outras;Saída de Pista;Pleno dia;Sol;0;1;0
+01/08/2010;Domingo;174;75.1;Outras;Colisão com objeto fixo;Pleno dia;Sol;0;0;2
+01/08/2010;Domingo;174;80.0;Não guardar distância de segurança;Colisão traseira;Anoitecer;Nublado;0;3;0
+07/08/2010;Sábado;174;10.0;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;1;0;3
+07/08/2010;Sábado;174;17.1;Ingestão de álcool;Colisão lateral;Pleno dia;Ceu Claro;0;2;2
+08/08/2010;Domingo;174;11.1;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;0;5
+10/08/2010;Terça;174;17.1;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;3;0
+14/08/2010;Sábado;319;0.1;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;2;0
+23/07/2010;Sexta;174;80.5;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;3;0
+18/08/2010;Quarta;174;71.6;Não guardar distância de segurança;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+15/08/2010;Domingo;174;6.2;Ingestão de álcool;Colisão com objeto fixo;Anoitecer;Ceu Claro;0;1;5
+20/08/2010;Sexta;319;1.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+13/08/2010;Sexta;174;77.0;Defeito mecânico em veículo;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;2;0
+30/08/2010;Segunda;174;162.5;Defeito mecânico em veículo;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+14/08/2010;Sábado;174;28.0;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+02/09/2010;Quinta;174;56.0;Outras;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;0
+05/09/2010;Domingo;174;28.0;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Ceu Claro;0;13;0
+04/09/2010;Sábado;174;6.0;Ultrapassagem indevida;Colisão frontal;Pleno dia;Sol;0;2;1
+10/09/2010;Sexta;174;1.8;Outras;Colisão lateral;Pleno dia;Chuva;0;2;0
+12/09/2010;Domingo;174;0.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+13/09/2010;Segunda;174;10.8;Outras;Colisão frontal;Plena noite;Nublado;0;35;3
+14/09/2010;Terça;174;75.0;Dormindo;Tombamento;Plena noite;Ceu Claro;0;1;0
+18/09/2010;Sábado;174;77.0;Outras;Capotamento;Anoitecer;Ceu Claro;0;1;4
+19/09/2010;Domingo;174;84.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Nublado;0;4;1
+18/09/2010;Sábado;174;70.5;Dormindo;Tombamento;Amanhecer;Ceu Claro;0;1;1
+20/09/2010;Segunda;174;54.3;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;11;0
+18/09/2010;Sábado;174;68.5;Outras;Saída de Pista;Pleno dia;Sol;0;2;0
+18/09/2010;Sábado;174;70.4;Outras;Saída de Pista;Anoitecer;Ceu Claro;0;1;0
+21/09/2010;Terça;174;25.0;Velocidade incompatível;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;0;1
+26/09/2010;Domingo;174;9.6;Dormindo;Saída de Pista;Plena noite;Ignorada;0;0;1
+26/09/2010;Domingo;174;50.6;Defeito na via;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;4;1
+01/10/2010;Sexta;174;9.0;Falta de atenção;Colisão lateral;Plena noite;Nublado;0;2;0
+02/10/2010;Sábado;174;54.0;Ingestão de álcool;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+02/10/2010;Sábado;174;2.3;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;3;0
+04/10/2010;Segunda;174;15.4;Defeito na via;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;0;1
+04/10/2010;Segunda;174;15.5;Defeito na via;Saída de Pista;Plena noite;Ceu Claro;0;0;2
+09/10/2010;Sábado;174;68.7;Ingestão de álcool;Atropelamento de pessoa;Anoitecer;Ceu Claro;1;0;1
+10/10/2010;Domingo;174;32.0;Falta de atenção;Saída de Pista;Anoitecer;Ceu Claro;0;1;1
+10/10/2010;Domingo;174;74.5;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;5;0
+11/10/2010;Segunda;174;26.7;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;5;2
+20/10/2010;Quarta;319;0.0;Desobediência à sinalização;Danos Eventuais;Pleno dia;Ceu Claro;0;1;0
+23/10/2010;Sábado;174;48.1;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+20/10/2010;Quarta;174;51.3;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+27/10/2010;Quarta;174;32.0;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+23/10/2010;Sábado;174;11.6;Outras;Capotamento;Pleno dia;Ceu Claro;0;1;0
+21/10/2010;Quinta;174;89.0;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Ceu Claro;0;7;0
+30/10/2010;Sábado;174;73.3;Ingestão de álcool;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+30/10/2010;Sábado;174;63.8;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;6
+30/10/2010;Sábado;174;37.5;Falta de atenção;Colisão frontal;Plena noite;Ceu Claro;0;4;2
+02/11/2010;Terça;174;10.8;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;6;0
+08/11/2010;Segunda;174;134.0;Falta de atenção;Colisão lateral;Pleno dia;Ignorada;0;1;2
+08/11/2010;Segunda;174;46.1;Dormindo;Saída de Pista;Pleno dia;Nublado;0;2;0
+09/11/2010;Terça;174;55.3;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+10/11/2010;Quarta;174;48.2;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;0;1
+10/11/2010;Quarta;174;63.5;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+11/11/2010;Quinta;174;63.0;Outras;Colisão traseira;Anoitecer;Chuva;0;2;2
+14/11/2010;Domingo;174;11.8;Outras;Atropelamento de pessoa;Plena noite;Ceu Claro;0;0;2
+15/11/2010;Segunda;174;30.6;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;3;2
+22/11/2010;Segunda;174;54.0;Dormindo;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;0;1
+23/11/2010;Terça;174;24.4;Outras;Saída de Pista;Pleno dia;Chuva;0;0;1
+21/11/2010;Domingo;174;36.5;Ingestão de álcool;Saída de Pista;Anoitecer;Ceu Claro;0;0;4
+26/11/2010;Sexta;174;87.7;Falta de atenção;Colisão frontal;Pleno dia;Chuva;0;2;5
+24/11/2010;Quarta;174;45.1;Defeito na via;Tombamento;Pleno dia;Ceu Claro;0;0;1
+28/11/2010;Domingo;174;10.5;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;6;0
+28/11/2010;Domingo;174;7.0;Ultrapassagem indevida;Colisão frontal;Pleno dia;Ceu Claro;0;0;2
+02/12/2010;Quinta;174;10.6;Falta de atenção;Colisão lateral;Amanhecer;Ceu Claro;0;1;0
+04/10/2010;Segunda;174;21.7;Defeito na via;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+07/12/2010;Terça;174;87.8;Velocidade incompatível;Colisão com objeto fixo;Plena noite;Chuva;2;1;1
+08/12/2010;Quarta;174;38.3;Velocidade incompatível;Colisão traseira;Pleno dia;Chuva;0;3;0
+13/12/2010;Segunda;174;2.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+13/12/2010;Segunda;174;36.3;Falta de atenção;Capotamento;Plena noite;Chuva;0;0;2
+13/12/2010;Segunda;174;44.3;Outras;Saída de Pista;Pleno dia;Chuva;0;3;0
+15/12/2010;Quarta;174;81.7;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;3;0
+18/12/2010;Sábado;174;15.5;Outras;Saída de Pista;Pleno dia;Sol;0;0;0
+19/12/2010;Domingo;174;0.0;Desobediência à sinalização;Colisão Transversal;Pleno dia;Ceu Claro;0;3;1
+21/12/2010;Terça;174;5.6;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Sol;0;3;0
+23/12/2010;Quinta;174;20.5;Velocidade incompatível;Saída de Pista;Plena noite;Chuva;0;1;1
+23/12/2010;Quinta;174;87.8;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;6;1
+23/12/2010;Quinta;174;64.6;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;2;3
+26/12/2010;Domingo;174;52.9;Dormindo;Saída de Pista;Plena noite;Chuva;0;4;0
+31/12/2010;Sexta;174;45.9;Ingestão de álcool;Colisão lateral;Pleno dia;Ceu Claro;0;2;1
+28/12/2010;Terça;174;165.2;Velocidade incompatível;Colisão traseira;Plena noite;Nublado;0;3;3
+24/10/2010;Domingo;174;11.0;Ingestão de álcool;Colisão traseira;Anoitecer;Chuva;0;5;0
+29/10/2011;Sábado;174;89.8;Falta de atenção;Saída de Pista;Pleno dia;Sol;0;4;1
+29/10/2011;Sábado;174;2.7;Ultrapassagem indevida;Colisão frontal;Pleno dia;Ceu Claro;0;1;5
+01/11/2011;Terça;174;10.7;Velocidade incompatível;Colisão Transversal;Pleno dia;Chuva;0;2;0
+02/11/2011;Quarta;174;67.7;Outras;Colisão frontal;Pleno dia;Nublado;0;5;0
+03/11/2011;Quinta;174;14.8;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+04/11/2011;Sexta;174;22.0;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;2;2
+05/11/2011;Sábado;174;30.2;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;0;7
+20/11/2011;Domingo;319;0.8;Não guardar distância de segurança;Colisão lateral;Plena noite;Ceu Claro;0;5;0
+26/11/2011;Sábado;174;30.4;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;8;0
+28/11/2011;Segunda;319;47.4;Outras;Saída de Pista;Pleno dia;Ignorada;0;0;0
+02/12/2011;Sexta;174;1.9;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+02/12/2011;Sexta;319;1.0;Falta de atenção;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;3;0
+11/12/2011;Domingo;174;7.8;Outras;Atropelamento de pessoa;Plena noite;Ceu Claro;1;1;5
+15/12/2011;Quinta;174;41.8;Falta de atenção;Capotamento;Pleno dia;Ceu Claro;0;1;2
+16/12/2011;Sexta;319;0.0;Não guardar distância de segurança;Colisão com objeto fixo;Amanhecer;Ceu Claro;0;2;0
+21/12/2011;Quarta;174;40.0;Falta de atenção;Colisão Transversal;Anoitecer;Ceu Claro;0;3;1
+25/12/2011;Domingo;174;18.6;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;2;0
+19/12/2011;Segunda;174;22.0;Ultrapassagem indevida;Tombamento;Pleno dia;Sol;0;0;1
+01/01/2011;Sábado;319;0.8;Outras;Colisão Transversal;Plena noite;Nublado;0;4;0
+02/01/2011;Domingo;174;29.5;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;7;0
+02/01/2011;Domingo;174;1.9;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+05/01/2011;Quarta;174;44.2;Outras;Capotamento;Pleno dia;Chuva;0;2;3
+07/01/2011;Sexta;319;27.0;Defeito mecânico em veículo;Colisão com objeto móvel;Pleno dia;Ceu Claro;0;2;0
+05/01/2011;Quarta;174;57.0;Outras;Colisão com objeto fixo;Plena noite;Chuva;0;0;1
+09/01/2011;Domingo;174;60.0;Velocidade incompatível;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+09/01/2011;Domingo;174;87.0;Dormindo;Saída de Pista;Amanhecer;Nublado;0;0;0
+08/01/2011;Sábado;174;23.7;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+15/01/2011;Sábado;174;51.7;Velocidade incompatível;Colisão traseira;Pleno dia;Chuva;0;7;3
+12/01/2011;Quarta;174;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;4;0
+28/01/2011;Sexta;174;65.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;10;0
+29/01/2011;Sábado;174;70.8;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;4;0
+29/01/2011;Sábado;174;57.0;Ultrapassagem indevida;Saída de Pista;Plena noite;Nublado;0;4;0
+30/01/2011;Domingo;174;20.2;Velocidade incompatível;Queda de motocicleta / bicicleta / veículo;Plena noite;Chuva;0;0;2
+23/01/2011;Domingo;174;21.0;Ultrapassagem indevida;Colisão frontal;Pleno dia;Ceu Claro;1;0;5
+04/02/2011;Sexta;174;25.0;Não guardar distância de segurança;Saída de Pista;Pleno dia;Chuva;0;1;0
+05/02/2011;Sábado;174;48.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ignorada;0;1;0
+05/02/2011;Sábado;174;68.0;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+08/02/2011;Terça;174;9.2;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;0
+05/02/2011;Sábado;174;30.4;Velocidade incompatível;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;2;1
+15/02/2011;Terça;174;80.3;Defeito mecânico em veículo;Colisão com objeto fixo;Plena noite;Ceu Claro;0;3;0
+08/02/2011;Terça;174;8.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;0;0
+17/02/2011;Quinta;174;60.0;Falta de atenção;Saída de Pista;Anoitecer;Ceu Claro;0;3;0
+18/02/2011;Sexta;174;9.4;Outras;Saída de Pista;Anoitecer;Nublado;0;3;0
+26/02/2011;Sábado;319;0.0;Falta de atenção;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;0
+03/03/2011;Quinta;174;83.0;Defeito na via;Colisão traseira;Pleno dia;Chuva;0;4;0
+03/03/2011;Quinta;174;12.0;Ultrapassagem indevida;Colisão frontal;Amanhecer;Chuva;0;1;0
+28/02/2011;Segunda;174;1.0;Ingestão de álcool;Colisão lateral;Plena noite;Chuva;0;1;1
+05/03/2011;Sábado;174;80.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Nublado;0;1;0
+11/03/2011;Sexta;174;1.0;Velocidade incompatível;Colisão traseira;Plena noite;Ceu Claro;0;4;0
+16/03/2011;Quarta;174;55.3;Falta de atenção;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;2;1
+18/03/2011;Sexta;174;56.0;Outras;Incêndio;Pleno dia;Sol;0;0;0
+25/03/2011;Sexta;174;7.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;1;0;0
+26/03/2011;Sábado;174;21.0;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;8;0
+27/03/2011;Domingo;174;17.1;Falta de atenção;Colisão Transversal;Pleno dia;Nublado;0;1;5
+26/03/2011;Sábado;319;0.8;Defeito mecânico em veículo;Colisão com objeto fixo;Pleno dia;Nublado;0;4;0
+03/04/2011;Domingo;174;1.9;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;3;0
+03/04/2011;Domingo;174;29.1;Defeito mecânico em veículo;Incêndio;Pleno dia;Nublado;0;3;0
+09/04/2011;Sábado;174;10.8;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+12/04/2011;Terça;174;9.3;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+08/04/2011;Sexta;174;1.0;Desobediência à sinalização;Colisão com objeto fixo;Plena noite;Ceu Claro;0;0;1
+05/02/2011;Sábado;174;59.5;Defeito na via;Colisão lateral;Plena noite;Ceu Claro;0;4;0
+23/04/2011;Sábado;174;6.8;Velocidade incompatível;Saída de Pista;Plena noite;Ceu Claro;0;3;0
+18/04/2011;Segunda;174;2.1;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;0;1
+22/04/2011;Sexta;174;56.5;Ultrapassagem indevida;Colisão traseira;Pleno dia;Chuva;0;9;1
+29/04/2011;Sexta;174;80.6;Falta de atenção;Saída de Pista;Amanhecer;Ceu Claro;0;0;1
+01/05/2011;Domingo;174;34.5;Velocidade incompatível;Colisão com objeto fixo;Plena noite;Nublado;0;2;0
+30/04/2011;Sábado;174;65.5;Outras;Saída de Pista;Plena noite;Nevoeiro/neblina;0;2;0
+06/05/2011;Sexta;174;35.8;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;5;0
+09/05/2011;Segunda;174;45.8;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+12/05/2011;Quinta;174;4.0;Dormindo;Atropelamento de pessoa;Pleno dia;Nublado;0;0;2
+14/05/2011;Sábado;174;48.1;Ingestão de álcool;Saída de Pista;Amanhecer;Nublado;0;1;0
+21/05/2011;Sábado;174;83.0;Ingestão de álcool;Colisão traseira;Plena noite;Ignorada;0;3;3
+27/05/2011;Sexta;174;30.1;Falta de atenção;Colisão com objeto fixo;Pleno dia;Nublado;0;2;0
+28/05/2011;Sábado;174;43.1;Ingestão de álcool;Colisão traseira;Plena noite;Ceu Claro;0;4;0
+29/05/2011;Domingo;174;44.9;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+28/05/2011;Sábado;174;91.1;Outras;Saída de Pista;Plena noite;Ceu Claro;0;1;2
+29/05/2011;Domingo;174;16.0;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+04/06/2011;Sábado;174;81.4;Outras;Saída de Pista;Pleno dia;Sol;0;2;0
+05/06/2011;Domingo;174;3.9;Ingestão de álcool;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;0;2
+29/05/2011;Domingo;174;19.2;Ingestão de álcool;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+06/06/2011;Segunda;319;0.3;Falta de atenção;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;1;1
+08/06/2011;Quarta;174;65.5;Velocidade incompatível;Saída de Pista;Amanhecer;Ceu Claro;0;0;1
+08/06/2011;Quarta;174;80.0;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+11/06/2011;Sábado;174;79.3;Animais na Pista;Atropelamento de animal;Plena noite;Ceu Claro;0;2;1
+10/06/2011;Sexta;319;0.8;Falta de atenção;Colisão lateral;Plena noite;Ceu Claro;0;2;0
+14/06/2011;Terça;174;100.6;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+20/05/2011;Sexta;319;13.0;Outras;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;1;2
+19/06/2011;Domingo;174;25.9;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+19/06/2011;Domingo;174;14.1;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;0;3
+21/06/2011;Terça;174;32.0;Defeito mecânico em veículo;Incêndio;Plena noite;Ceu Claro;0;1;0
+19/06/2011;Domingo;174;14.1;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Chuva;0;3;2
+21/06/2011;Terça;319;25.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+22/06/2011;Quarta;174;61.0;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;3;1
+23/06/2011;Quinta;174;43.0;Velocidade incompatível;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+22/06/2011;Quarta;174;40.4;Outras;Colisão Transversal;Pleno dia;Ceu Claro;0;1;4
+24/06/2011;Sexta;174;6.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;0;3
+25/06/2011;Sábado;174;27.2;Outras;Saída de Pista;Pleno dia;Chuva;0;2;1
+26/06/2011;Domingo;174;83.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+27/06/2011;Segunda;174;25.9;Velocidade incompatível;Colisão com objeto fixo;Pleno dia;Chuva;0;2;1
+01/07/2011;Sexta;174;3.3;Falta de atenção;Colisão Transversal;Anoitecer;Ceu Claro;0;2;2
+01/07/2011;Sexta;174;34.5;Outras;Colisão com objeto fixo;Plena noite;Ceu Claro;0;3;2
+02/07/2011;Sábado;174;3.0;Velocidade incompatível;Colisão Transversal;Pleno dia;Nublado;0;0;6
+07/07/2011;Quinta;174;34.8;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;0;1
+07/07/2011;Quinta;174;56.3;Velocidade incompatível;Colisão traseira;Pleno dia;Chuva;0;8;7
+17/06/2011;Sexta;174;12.0;Outras;Saída de Pista;Amanhecer;Chuva;0;0;0
+12/07/2011;Terça;174;83.0;Velocidade incompatível;Colisão traseira;Pleno dia;Sol;0;3;0
+13/07/2011;Quarta;174;7.8;Desobediência à sinalização;Colisão traseira;Pleno dia;Chuva;0;1;2
+13/07/2011;Quarta;174;21.2;Falta de atenção;Atropelamento de pessoa;Pleno dia;Chuva;1;1;0
+17/07/2011;Domingo;174;77.0;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+17/07/2011;Domingo;174;11.7;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;12;0
+18/07/2011;Segunda;174;36.4;Outras;Queda de motocicleta / bicicleta / veículo;Amanhecer;Nevoeiro/neblina;0;0;1
+22/07/2011;Sexta;319;1.0;Não guardar distância de segurança;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;2;0
+25/07/2011;Segunda;174;59.2;Não guardar distância de segurança;Colisão lateral;Amanhecer;Ceu Claro;0;2;2
+25/07/2011;Segunda;174;22.0;Falta de atenção;Colisão frontal;Pleno dia;Nublado;0;1;4
+31/07/2011;Domingo;174;6.7;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;1;0
+31/07/2011;Domingo;174;5.5;Outras;Colisão frontal;Pleno dia;Ceu Claro;0;3;4
+31/07/2011;Domingo;174;27.3;Ultrapassagem indevida;Colisão traseira;Pleno dia;Ceu Claro;1;0;8
+07/08/2011;Domingo;174;1.0;Não guardar distância de segurança;Colisão traseira;Anoitecer;Ceu Claro;0;0;0
+09/08/2011;Terça;174;46.6;Velocidade incompatível;Capotamento;Pleno dia;Ceu Claro;0;2;0
+10/08/2011;Quarta;174;46.6;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+07/08/2011;Domingo;174;16.8;Ingestão de álcool;Saída de Pista;Plena noite;Ceu Claro;1;1;3
+07/08/2011;Domingo;174;21.0;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;3
+13/08/2011;Sábado;174;45.6;Ingestão de álcool;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+14/08/2011;Domingo;174;0.2;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;3;0
+14/08/2011;Domingo;174;21.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+15/08/2011;Segunda;174;41.6;Outras;Colisão com objeto fixo;Plena noite;Ceu Claro;1;3;0
+14/08/2011;Domingo;174;21.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;9;0
+12/08/2011;Sexta;174;57.4;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+21/08/2011;Domingo;174;66.9;Ingestão de álcool;Saída de Pista;Plena noite;Ceu Claro;1;0;0
+21/08/2011;Domingo;174;1.9;Falta de atenção;Colisão traseira;Anoitecer;Ceu Claro;0;5;2
+24/08/2011;Quarta;174;14.4;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+31/08/2011;Quarta;174;1.9;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;1;1
+02/09/2011;Sexta;174;4.0;Falta de atenção;Atropelamento de pessoa;Pleno dia;Ceu Claro;1;45;0
+31/08/2011;Quarta;174;1.0;Falta de atenção;Colisão frontal;Plena noite;Ceu Claro;2;1;0
+04/09/2011;Domingo;174;57.9;Outras;Saída de Pista;Plena noite;Ignorada;0;0;0
+05/09/2011;Segunda;174;10.5;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+07/09/2011;Quarta;174;30.7;Desobediência à sinalização;Colisão Transversal;Pleno dia;Ceu Claro;0;3;0
+07/09/2011;Quarta;174;49.7;Não guardar distância de segurança;Colisão traseira;Anoitecer;Chuva;0;6;0
+05/09/2011;Segunda;174;5.4;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;9;0
+05/09/2011;Segunda;174;14.4;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+06/09/2011;Terça;174;2.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;1;1
+07/09/2011;Quarta;174;0.5;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;6;0
+07/09/2011;Quarta;174;1.5;Não guardar distância de segurança;Colisão traseira;Anoitecer;Ceu Claro;0;3;0
+10/09/2011;Sábado;319;1.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;0;0
+14/09/2011;Quarta;174;45.5;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+07/09/2011;Quarta;174;18.9;Desobediência à sinalização;Colisão traseira;Pleno dia;Chuva;0;7;6
+13/09/2011;Terça;174;4.0;Falta de atenção;Colisão Transversal;Pleno dia;Sol;0;2;1
+18/09/2011;Domingo;174;70.4;Velocidade incompatível;Colisão lateral;Pleno dia;Chuva;0;1;2
+18/09/2011;Domingo;174;70.8;Velocidade incompatível;Colisão traseira;Anoitecer;Chuva;0;0;2
+18/09/2011;Domingo;174;34.6;Falta de atenção;Saída de Pista;Pleno dia;Nublado;0;0;4
+21/08/2011;Domingo;174;1.5;Falta de atenção;Colisão traseira;Anoitecer;Ignorada;0;1;0
+23/09/2011;Sexta;174;86.2;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+24/09/2011;Sábado;174;21.0;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;0;1
+24/09/2011;Sábado;174;35.0;Ingestão de álcool;Saída de Pista;Pleno dia;Ceu Claro;0;0;0
+24/09/2011;Sábado;174;1.0;Defeito mecânico em veículo;Incêndio;Amanhecer;Ceu Claro;0;1;0
+25/09/2011;Domingo;174;4.0;Ingestão de álcool;Colisão traseira;Pleno dia;Sol;0;2;1
+01/10/2011;Sábado;174;17.0;Velocidade incompatível;Colisão traseira;Pleno dia;Ceu Claro;0;1;2
+02/10/2011;Domingo;174;7.0;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;7;2
+24/09/2011;Sábado;174;71.6;Animais na Pista;Atropelamento de animal;Plena noite;Nevoeiro/neblina;0;3;0
+06/10/2011;Quinta;174;63.5;Animais na Pista;Atropelamento de animal;Plena noite;Nevoeiro/neblina;0;1;0
+11/10/2011;Terça;174;20.4;Outras;Colisão frontal;Pleno dia;Ceu Claro;0;2;4
+16/10/2011;Domingo;174;55.0;Outras;Saída de Pista;Pleno dia;Chuva;0;4;0
+16/10/2011;Domingo;174;43.0;Velocidade incompatível;Capotamento;Anoitecer;Ceu Claro;0;1;1
+23/10/2011;Domingo;174;5.5;Outras;Colisão Transversal;Pleno dia;Ceu Claro;0;5;0
+24/10/2011;Segunda;174;1.7;Ultrapassagem indevida;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+24/10/2011;Segunda;174;5.0;Ultrapassagem indevida;Colisão Transversal;Pleno dia;Ceu Claro;0;3;1
+25/10/2011;Terça;174;2.0;Falta de atenção;Colisão Transversal;Amanhecer;Ignorada;0;4;0
+2012-01-01;Domingo;174;23.9;Animais na Pista;Atropelamento de animal;Plena noite;Ceu Claro;0;1;1
+2012-01-03;Terça;174;62.1;Dormindo;Saída de Pista;Anoitecer;Nublado;0;1;0
+2012-01-11;Quarta;319;0.8;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2012-01-07;Sábado;174;166.6;Dormindo;Saída de Pista;Pleno dia;Nublado;1;0;4
+2012-01-16;Segunda;174;9.3;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;3;0
+2012-01-17;Terça;174;8;Velocidade incompatível;Atropelamento de pessoa;Pleno dia;Ceu Claro;1;0;0
+2012-01-15;Domingo;174;96.7;Velocidade incompatível;Saída de Pista;Amanhecer;Chuva;0;0;0
+2012-01-29;Domingo;174;4;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;9;0
+2012-01-29;Domingo;174;8;Ingestão de álcool;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;1;5
+2012-02-02;Quinta;174;14.1;Ingestão de álcool;Colisão Transversal;Pleno dia;Chuva;0;2;0
+2012-02-04;Sábado;174;4.4;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+2012-02-05;Domingo;174;3.5;Ingestão de álcool;Colisão traseira;Pleno dia;Nublado;0;5;0
+2012-02-05;Domingo;174;79;Outras;Saída de Pista;Pleno dia;Nublado;0;4;0
+2012-02-09;Quinta;174;9.1;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;0;1
+2012-02-15;Quarta;174;65.4;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;2
+2012-02-19;Domingo;174;24.3;Outras;Colisão lateral;Amanhecer;Chuva;0;2;0
+2012-02-21;Terça;174;30;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;14;0
+2012-03-02;Sexta;174;20.1;Desobediência à sinalização;Colisão lateral;Pleno dia;Ceu Claro;0;4;0
+2012-03-03;Sábado;174;34;Falta de atenção;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;0;1
+2012-03-04;Domingo;174;58.3;Ultrapassagem indevida;Saída de Pista;Anoitecer;Ceu Claro;0;2;0
+2012-03-07;Quarta;174;2;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;1;0
+2012-03-04;Domingo;174;22;Animais na Pista;Atropelamento de animal;Plena noite;Nublado;0;3;1
+2012-03-16;Sexta;174;37;Outras;Colisão frontal;Plena noite;Nevoeiro/neblina;0;0;4
+2012-03-22;Quinta;174;13.8;Outras;Saída de Pista;Pleno dia;Nublado;0;1;0
+2012-03-24;Sábado;319;1;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2012-03-25;Domingo;319;1;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2012-03-23;Sexta;174;46.3;Defeito mecânico em veículo;Colisão com objeto fixo;Pleno dia;Nublado;0;1;0
+2012-03-23;Sexta;174;26;Falta de atenção;Saída de Pista;Pleno dia;Nublado;0;0;2
+2012-04-06;Sexta;174;75.6;Outras;Capotamento;Pleno dia;Ceu Claro;0;1;3
+2012-04-08;Domingo;174;14.3;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;4;0
+2012-03-06;Terça;174;6.9;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;4;1
+2012-04-01;Domingo;174;24;Falta de atenção;Saída de Pista;Pleno dia;Nublado;0;0;0
+2012-04-17;Terça;319;0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2012-04-21;Sábado;174;3;Desobediência à sinalização;Colisão Transversal;Plena noite;Ceu Claro;0;0;2
+2012-04-29;Domingo;174;7;Falta de atenção;Tombamento;Anoitecer;Chuva;0;1;1
+2012-05-04;Sexta;174;42.9;Defeito na via;Saída de Pista;Plena noite;Chuva;0;2;0
+2012-05-07;Segunda;174;19.8;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;1;1
+2012-05-11;Sexta;319;0.7;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;2;0
+2012-05-11;Sexta;319;0.7;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;2;0
+2012-05-12;Sábado;174;24;Ingestão de álcool;Colisão lateral;Pleno dia;Ceu Claro;0;1;1
+2012-05-15;Terça;174;130.7;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Chuva;0;1;0
+2012-05-20;Domingo;174;25.8;Dormindo;Saída de Pista;Pleno dia;Sol;0;2;0
+2012-05-23;Quarta;174;56;Falta de atenção;Colisão frontal;Pleno dia;Ceu Claro;0;3;0
+2012-05-21;Segunda;319;0.5;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;2;1
+2012-05-19;Sábado;174;90.7;Outras;Saída de Pista;Pleno dia;Nublado;0;1;1
+2012-05-31;Quinta;174;18.8;Outras;Saída de Pista;Pleno dia;Chuva;0;1;3
+2012-06-01;Sexta;174;5.1;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2012-06-01;Sexta;174;40.5;Falta de atenção;Colisão Transversal;Plena noite;Ceu Claro;0;4;1
+2012-06-05;Terça;174;11.4;Falta de atenção;Queda de motocicleta / bicicleta / veículo;Anoitecer;Ceu Claro;0;0;1
+2012-06-02;Sábado;174;70;Falta de atenção;Tombamento;Anoitecer;Nublado;0;0;2
+2012-04-13;Sexta;174;1.3;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+2012-06-03;Domingo;174;53.6;Falta de atenção;Saída de Pista;Amanhecer;Ceu Claro;0;1;0
+2012-06-10;Domingo;174;11;Outras;Colisão traseira;Pleno dia;Chuva;0;1;1
+2012-06-03;Domingo;174;61;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;8;1
+2012-06-16;Sábado;174;10.8;Falta de atenção;Colisão lateral;Plena noite;Ceu Claro;0;4;0
+2012-06-17;Domingo;174;18.9;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;8;0
+2012-06-17;Domingo;174;18.4;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;9;0
+2012-06-19;Terça;174;45.2;Falta de atenção;Saída de Pista;Pleno dia;Nublado;0;1;0
+2012-06-25;Segunda;174;88;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+2012-06-25;Segunda;174;91.2;Outras;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2012-06-17;Domingo;174;18.9;Outras;Saída de Pista;Pleno dia;Ignorada;0;0;0
+2012-06-30;Sábado;174;1;Desobediência à sinalização;Colisão Transversal;Plena noite;Nublado;0;0;3
+2012-07-01;Domingo;174;10.7;Desobediência à sinalização;Colisão Transversal;Pleno dia;Ceu Claro;0;5;1
+2012-07-14;Sábado;319;1;Ingestão de álcool;Colisão com objeto fixo;Amanhecer;Ceu Claro;0;4;1
+2012-07-22;Domingo;174;28;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+2012-07-22;Domingo;174;89.1;Animais na Pista;Saída de Pista;Plena noite;Nevoeiro/neblina;0;2;0
+2012-07-29;Domingo;174;21.2;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;3;1
+2012-07-29;Domingo;174;35;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;12;0
+2012-08-04;Sábado;174;21.3;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;8;0
+2012-08-04;Sábado;174;19.2;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;5;0
+2012-08-05;Domingo;174;3;Falta de atenção;Tombamento;Pleno dia;Sol;0;5;1
+2012-08-04;Sábado;174;0.8;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;3;0
+2012-08-06;Segunda;174;21;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;0;0
+2012-08-02;Quinta;174;24;Velocidade incompatível;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2012-06-03;Domingo;174;68;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;4;9
+2012-09-07;Sexta;174;30.9;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;7;1
+2012-09-07;Sexta;174;65.5;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+2012-09-09;Domingo;174;0.4;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;5;0
+2012-09-06;Quinta;174;83.1;Animais na Pista;Atropelamento de animal;Plena noite;Nublado;0;1;0
+2012-09-07;Sexta;174;3.1;Falta de atenção;Atropelamento de pessoa;Anoitecer;Ceu Claro;0;4;1
+2012-09-07;Sexta;174;17;Desobediência à sinalização;Colisão Transversal;Pleno dia;Ceu Claro;0;3;3
+2012-09-16;Domingo;174;0.1;Outras;Colisão frontal;Amanhecer;Nublado;0;3;4
+2012-09-22;Sábado;174;14.6;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;3;0
+2012-09-24;Segunda;174;79.5;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;0;1
+2012-09-22;Sábado;174;11.7;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;5;0
+2012-09-28;Sexta;319;1;Defeito mecânico em veículo;Tombamento;Pleno dia;Nublado;0;1;0
+2012-09-29;Sábado;174;4;Outras;Colisão com objeto móvel;Pleno dia;Ceu Claro;0;7;0
+2012-09-30;Domingo;174;22.2;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;4;0
+2012-10-05;Sexta;174;9.2;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;1;3
+2012-10-07;Domingo;174;41;Defeito mecânico em veículo;Incêndio;Pleno dia;Sol;0;3;0
+2012-10-07;Domingo;174;106.3;Falta de atenção;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;5;1
+2012-10-07;Domingo;174;13.5;Ingestão de álcool;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+2012-10-08;Segunda;174;74.2;Dormindo;Saída de Pista;Plena noite;Nublado;0;0;1
+2012-10-05;Sexta;174;63.7;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Sol;0;1;0
+2012-10-10;Quarta;174;16;Outras;Incêndio;Plena noite;Ignorada;0;0;0
+2012-10-11;Quinta;174;15;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;1;0
+2012-10-12;Sexta;174;28;Outras;Capotamento;Pleno dia;Ceu Claro;0;4;0
+2012-10-14;Domingo;174;17;Falta de atenção;Colisão com objeto fixo;Pleno dia;Nublado;0;1;2
+2012-10-14;Domingo;174;8;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;2;0
+2012-10-14;Domingo;174;23;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+2012-10-20;Sábado;174;34.3;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;0;0
+2012-10-24;Quarta;174;5;Ingestão de álcool;Colisão traseira;Plena noite;Ceu Claro;0;1;2
+2012-10-27;Sábado;174;4;Velocidade incompatível;Colisão traseira;Pleno dia;Chuva;0;5;0
+2012-11-04;Domingo;174;30;Outras;Atropelamento de pessoa;Pleno dia;Ceu Claro;1;1;0
+2012-11-01;Quinta;174;17;Falta de atenção;Colisão Transversal;Pleno dia;Sol;0;1;0
+2012-10-14;Domingo;174;8;Ingestão de álcool;Colisão traseira;Anoitecer;Ignorada;0;3;0
+2012-11-05;Segunda;174;30;Falta de atenção;Atropelamento de pessoa;Plena noite;Ceu Claro;0;0;1
+2012-11-14;Quarta;174;41.8;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;2;0
+2012-11-17;Sábado;174;4;Ingestão de álcool;Colisão traseira;Pleno dia;Chuva;0;2;0
+2012-11-20;Terça;174;30;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;0;4
+2012-11-20;Terça;174;3;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;2;1
+2012-11-18;Domingo;174;11;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;1;1
+2012-12-02;Domingo;174;14.3;Falta de atenção;Colisão frontal;Pleno dia;Nublado;0;4;0
+2012-11-11;Domingo;174;3.4;Dormindo;Colisão frontal;Pleno dia;Chuva;0;1;0
+2012-11-18;Domingo;174;67.5;Ingestão de álcool;Colisão frontal;Amanhecer;Ceu Claro;0;2;0
+2012-12-11;Terça;174;83;Outras;Saída de Pista;Pleno dia;Nublado;0;1;0
+2012-12-06;Quinta;174;104.8;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;0;0
+2012-11-30;Sexta;174;15;Outras;Saída de Pista;Anoitecer;Chuva;0;1;0
+2012-12-14;Sexta;174;35.9;Ultrapassagem indevida;Saída de Pista;Pleno dia;Nublado;0;3;0
+2012-12-15;Sábado;174;71;Ultrapassagem indevida;Saída de Pista;Amanhecer;Nublado;0;0;2
+2012-12-14;Sexta;174;37;Não guardar distância de segurança;Colisão lateral;Amanhecer;Ceu Claro;0;0;1
+2012-12-14;Sexta;174;84;Velocidade incompatível;Colisão com objeto fixo;Pleno dia;Chuva;0;1;0
+2012-07-07;Sábado;174;2.4;Não guardar distância de segurança;Colisão traseira;Plena noite;Ceu Claro;0;7;1
+2012-12-18;Terça;174;0.5;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;3;0
+2012-12-27;Quinta;174;16.3;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;2;0
+2012-12-30;Domingo;174;45.4;Não guardar distância de segurança;Saída de Pista;Pleno dia;Chuva;0;9;0
+2012-12-30;Domingo;174;68;Velocidade incompatível;Colisão traseira;Anoitecer;Nublado;0;2;2
+2012-06-09;Sábado;174;54;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;0;1
+2013-01-01;Terça;174;46.0;Outras;Saída de Pista;Pleno dia;Chuva;0;3;4
+2013-01-02;Quarta;174;25.0;Outras;Saída de Pista;Plena noite;Chuva;0;2;0
+2013-01-10;Quinta;174;39.0;Dormindo;Saída de Pista;Plena noite;Ignorada;0;1;0
+2013-01-14;Segunda;174;21.0;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+2013-01-20;Domingo;174;53.0;Velocidade incompatível;Colisão com objeto fixo;Pleno dia;Ceu Claro;0;1;2
+2013-01-18;Sexta;174;1.0;Defeito mecânico em veículo;Colisão frontal;Pleno dia;Sol;0;1;1
+2013-02-03;Domingo;174;43.0;Dormindo;Colisão traseira;Anoitecer;Ceu Claro;0;1;7
+2013-02-06;Quarta;174;14.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;5;0
+2013-01-19;Sábado;174;106.0;Falta de atenção;Colisão traseira;Anoitecer;Chuva;0;2;1
+2013-02-09;Sábado;174;11.0;Outras;Capotamento;Pleno dia;Chuva;0;0;1
+2013-02-07;Quinta;174;3.0;Velocidade incompatível;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2013-02-09;Sábado;174;15.0;Outras;Colisão com objeto fixo;Pleno dia;Chuva;0;1;0
+2013-02-14;Quinta;174;20.0;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+2013-02-10;Domingo;174;18.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+2013-02-16;Sábado;174;38.2;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2013-01-27;Domingo;174;2.5;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+2013-02-12;Terça;174;34.0;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;2;0
+2013-02-17;Domingo;174;17.0;Falta de atenção;Colisão frontal;Amanhecer;Chuva;0;5;0
+2013-02-17;Domingo;174;21.0;Ultrapassagem indevida;Colisão lateral;Pleno dia;Chuva;0;2;0
+2013-02-24;Domingo;174;4.0;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Nublado;0;1;3
+2013-03-01;Sexta;174;14.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;1;0
+2013-03-03;Domingo;174;49.0;Ultrapassagem indevida;Capotamento;Anoitecer;Ceu Claro;0;0;5
+2013-03-06;Quarta;174;41.9;Outras;Saída de Pista;Pleno dia;Chuva;0;2;0
+2013-03-10;Domingo;174;35.1;Outras;Saída de Pista;Pleno dia;Sol;0;2;0
+2013-03-07;Quinta;174;26.0;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+2013-03-14;Quinta;174;47.0;Outras;Colisão frontal;Pleno dia;Ceu Claro;3;0;1
+2013-03-23;Sábado;174;14.0;Outras;Saída de Pista;Pleno dia;Chuva;0;2;0
+2013-04-05;Sexta;174;68.0;Ultrapassagem indevida;Saída de Pista;Pleno dia;Chuva;0;0;3
+2013-04-06;Sábado;174;12.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2013-04-08;Segunda;174;8.0;Velocidade incompatível;Capotamento;Pleno dia;Chuva;0;0;3
+2013-03-11;Segunda;174;14.0;Velocidade incompatível;Colisão frontal;Pleno dia;Chuva;0;2;0
+2013-04-12;Sexta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2013-04-13;Sábado;174;30.5;Animais na Pista;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+2013-04-28;Domingo;174;11.0;Velocidade incompatível;Colisão traseira;Pleno dia;Chuva;0;5;0
+2013-05-02;Quinta;174;10.0;Falta de atenção;Saída de Pista;Pleno dia;Chuva;0;1;1
+2013-05-01;Quarta;174;57.0;Ultrapassagem indevida;Saída de Pista;Pleno dia;Ceu Claro;0;4;0
+2013-05-08;Quarta;174;14.0;Defeito na via;Saída de Pista;Pleno dia;Chuva;0;3;0
+2013-05-11;Sábado;174;21.0;Falta de atenção;Colisão traseira;Plena noite;Nevoeiro/neblina;0;2;0
+2013-02-17;Domingo;174;16.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;4;0
+2013-05-30;Quinta;319;0.6;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;2;0
+2013-06-01;Sábado;174;83.0;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+2013-05-30;Quinta;174;1.0;Outras;Colisão traseira;Pleno dia;Ceu Claro;0;4;1
+2013-06-01;Sábado;174;0.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2013-06-02;Domingo;174;30.5;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+2013-06-02;Domingo;174;31.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+2013-06-02;Domingo;174;30.0;Não guardar distância de segurança;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2013-06-02;Domingo;174;17.0;Ingestão de álcool;Colisão traseira;Pleno dia;Ceu Claro;0;9;0
+2013-05-30;Quinta;174;15.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;3;0
+2013-06-02;Domingo;174;65.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Sol;0;0;2
+2013-06-06;Quinta;319;0.1;Ingestão de álcool;Colisão com objeto móvel;Plena noite;Ceu Claro;0;1;0
+2013-06-09;Domingo;174;30.0;Falta de atenção;Saída de Pista;Pleno dia;Sol;0;4;1
+2013-06-11;Terça;174;2.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;1;0;3
+2013-06-12;Quarta;174;31.5;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;1;0
+2013-06-02;Domingo;174;15.0;Outras;Saída de Pista;Amanhecer;Nublado;0;1;0
+2013-06-21;Sexta;174;3.0;Falta de atenção;Tombamento;Pleno dia;Ceu Claro;0;1;0
+2013-06-24;Segunda;174;14.1;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;2;0
+2013-06-23;Domingo;174;4.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Nublado;0;2;0
+2013-06-23;Domingo;174;4.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;2;0
+2013-06-28;Sexta;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2013-07-02;Terça;174;95.6;Dormindo;Saída de Pista;Pleno dia;Nublado;0;4;1
+2013-06-01;Sábado;174;20.0;Outras;Saída de Pista;Plena noite;Ignorada;0;1;0
+2013-07-02;Terça;174;16.0;Outras;Tombamento;Pleno dia;Chuva;0;0;1
+2013-06-17;Segunda;174;46.0;Outras;Saída de Pista;Pleno dia;Sol;0;1;0
+2013-07-08;Segunda;174;3.4;Ultrapassagem indevida;Colisão lateral;Pleno dia;Ceu Claro;0;1;1
+2013-07-11;Quinta;174;0.1;Defeito mecânico em veículo;Colisão lateral;Pleno dia;Nublado;0;2;1
+2013-07-13;Sábado;174;26.0;Ultrapassagem indevida;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+2013-07-13;Sábado;174;15.6;Ultrapassagem indevida;Saída de Pista;Plena noite;Ceu Claro;0;0;2
+2013-07-15;Segunda;174;1.0;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;2;0
+2013-07-22;Segunda;174;1.5;Falta de atenção;Colisão frontal;Plena noite;Ceu Claro;0;4;1
+2013-07-27;Sábado;174;20.5;Ingestão de álcool;Colisão frontal;Amanhecer;Sol;0;3;0
+2013-08-05;Segunda;174;56.0;Velocidade incompatível;Atropelamento de pessoa;Pleno dia;Ceu Claro;0;1;1
+2013-08-04;Domingo;174;13.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2013-08-04;Domingo;174;15.0;Falta de atenção;Colisão traseira;Anoitecer;Ceu Claro;0;3;0
+2013-08-10;Sábado;174;11.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;3
+2013-09-03;Terça;319;38.5;Falta de atenção;Saída de Pista;Amanhecer;Ceu Claro;0;0;2
+2013-09-02;Segunda;319;0.7;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;1;1
+2013-09-07;Sábado;174;18.0;Velocidade incompatível;Colisão traseira;Anoitecer;Ignorada;0;2;0
+2013-09-08;Domingo;174;9.5;Falta de atenção;Colisão frontal;Pleno dia;Chuva;1;0;6
+2013-08-03;Sábado;174;31.0;Desobediência à sinalização;Saída de Pista;Pleno dia;Sol;0;3;1
+2013-09-11;Quarta;319;70.0;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+2013-09-14;Sábado;174;6.7;Velocidade incompatível;Capotamento;Pleno dia;Ceu Claro;0;1;0
+2013-09-21;Sábado;174;27.0;Ultrapassagem indevida;Colisão frontal;Pleno dia;Ceu Claro;0;2;0
+2013-09-27;Sexta;174;63.0;Ultrapassagem indevida;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+2013-10-03;Quinta;174;46.0;Falta de atenção;Colisão traseira;Anoitecer;Nublado;0;2;0
+2013-10-06;Domingo;174;8.0;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;2;0
+2013-10-06;Domingo;174;8.0;Ultrapassagem indevida;Capotamento;Pleno dia;Ceu Claro;0;3;2
+2013-10-09;Quarta;174;7.0;Dormindo;Colisão traseira;Pleno dia;Nublado;0;7;2
+2013-10-13;Domingo;174;59.0;Outras;Capotamento;Pleno dia;Ceu Claro;0;0;2
+2013-10-18;Sexta;174;21.2;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;2;1
+2013-10-29;Terça;174;4.0;Outras;Colisão frontal;Pleno dia;Nublado;0;3;1
+2013-10-28;Segunda;174;7.0;Falta de atenção;Colisão traseira;Pleno dia;Chuva;0;2;0
+2013-11-03;Domingo;174;45.5;Ultrapassagem indevida;Colisão frontal;Pleno dia;Ceu Claro;0;3;7
+2013-11-03;Domingo;174;45.3;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;1;1
+2013-11-05;Terça;174;64.3;Animais na Pista;Atropelamento de animal;Plena noite;Ceu Claro;0;0;1
+2013-11-05;Terça;174;68.0;Outras;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+2013-11-08;Sexta;174;66.0;Outras;Saída de Pista;Plena noite;Nevoeiro/neblina;0;1;0
+2013-11-09;Sábado;174;45.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+2013-11-16;Sábado;174;17.0;Velocidade incompatível;Tombamento;Plena noite;Chuva;0;0;1
+2013-11-16;Sábado;174;21.0;Falta de atenção;Colisão traseira;Plena noite;Ceu Claro;0;2;0
+2013-11-25;Segunda;174;29.0;Defeito mecânico em veículo;Colisão frontal;Plena noite;Ceu Claro;0;1;1
+2013-11-27;Quarta;174;52.9;Outras;Saída de Pista;Plena noite;Chuva;0;3;0
+2013-12-03;Terça;174;5.0;Outras;Colisão frontal;Pleno dia;Ceu Claro;0;0;2
+2013-12-07;Sábado;174;38.0;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;2;0
+2013-12-06;Sexta;174;3.0;Ultrapassagem indevida;Colisão lateral;Pleno dia;Ceu Claro;0;1;1
+2013-11-30;Sábado;174;119.0;Velocidade incompatível;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+2013-12-11;Quarta;174;70.9;Ingestão de álcool;Atropelamento de pessoa;Amanhecer;Ceu Claro;1;0;0
+2013-12-11;Quarta;174;1.4;Falta de atenção;Atropelamento de pessoa;Amanhecer;Ceu Claro;0;1;1
+2013-12-14;Sábado;174;51.1;Outras;Saída de Pista;Pleno dia;Sol;0;2;0
+2013-12-15;Domingo;174;29.8;Falta de atenção;Colisão traseira;Pleno dia;Nublado;0;2;0
+2013-12-17;Terça;174;21.0;Velocidade incompatível;Saída de Pista;Amanhecer;Chuva;0;0;4
+2013-12-21;Sábado;174;43.0;Velocidade incompatível;Colisão traseira;Amanhecer;Nublado;0;5;0
+2013-12-25;Quarta;319;1.0;Ingestão de álcool;Colisão lateral;Pleno dia;Sol;0;2;0
+2013-12-25;Quarta;174;953.8;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;0;4
+2013-12-25;Quarta;174;954.7;Defeito mecânico em veículo;Capotamento;Plena noite;Ceu Claro;0;0;1
+2014-01-05;Domingo;174;959.0;Outras;Saída de Pista;Pleno dia;Nublado;0;0;0
+2014-01-08;Quarta;174;896.8;Defeito mecânico em veículo;Colisão com objeto móvel;Pleno dia;Chuva;0;2;0
+2014-01-09;Quinta;174;960.0;Outras;Saída de Pista;Plena noite;Ignorada;0;1;0
+2014-01-18;Sábado;174;894.0;Desobediência à sinalização;Colisão Transversal;Pleno dia;Chuva;0;3;0
+2014-01-24;Sexta;319;0.8;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2014-01-24;Sexta;174;900.0;Dormindo;Tombamento;Plena noite;Ceu Claro;0;1;0
+2014-01-30;Quinta;174;898.0;Outras;Incêndio;Pleno dia;Sol;0;0;1
+2014-02-01;Sábado;174;894.2;Ingestão de álcool;Saída de Pista;Pleno dia;Sol;0;1;0
+2014-02-08;Sábado;174;921.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Nublado;0;2;0
+2014-02-13;Quinta;174;913.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;1;0
+2014-02-20;Quinta;174;951.0;Dormindo;Saída de Pista;Pleno dia;Sol;0;1;0
+2014-02-09;Domingo;174;904.0;Ingestão de álcool;Colisão traseira;Pleno dia;Chuva;0;3;1
+2014-03-02;Domingo;174;980.0;Ultrapassagem indevida;Colisão frontal;Pleno dia;Chuva;2;0;2
+2014-01-19;Domingo;174;948.0;Ultrapassagem indevida;Saída de Pista;Plena noite;Ignorada;0;1;4
+2014-02-24;Segunda;174;939.0;Falta de atenção;Colisão com objeto fixo;Plena noite;Ignorada;0;2;0
+2014-03-16;Domingo;174;976.0;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+2014-03-02;Domingo;174;943.0;Defeito na via;Saída de Pista;Plena noite;Nevoeiro/neblina;0;1;0
+2014-03-22;Sábado;174;922.0;Velocidade incompatível;Atropelamento de pessoa;Plena noite;Chuva;1;0;0
+2014-03-26;Quarta;174;886.0;Desobediência à sinalização;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2014-02-23;Domingo;174;938.6;Outras;Colisão com objeto fixo;Plena noite;Ceu Claro;0;2;10
+2014-03-29;Sábado;174;923.5;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;7;0
+2014-03-29;Sábado;174;943.2;Outras;Saída de Pista;Plena noite;Ceu Claro;0;3;2
+2014-03-28;Sexta;319;1.0;Desobediência à sinalização;Colisão lateral;Pleno dia;Nublado;0;2;0
+2014-04-03;Quinta;174;958.0;Falta de atenção;Tombamento;Pleno dia;Ceu Claro;0;2;1
+2014-04-04;Sexta;174;934.8;Falta de atenção;Colisão traseira;Pleno dia;Sol;0;5;0
+2014-04-05;Sábado;174;959.0;Defeito na via;Capotamento;Pleno dia;Ceu Claro;0;1;0
+2014-04-18;Sexta;174;894.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;1;2
+2014-04-19;Sábado;174;893.9;Velocidade incompatível;Colisão traseira;Pleno dia;Sol;0;2;0
+2014-04-22;Terça;174;964.0;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Sol;0;1;0
+2014-05-04;Domingo;174;913.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;2;1
+2014-05-08;Quinta;174;922.0;Outras;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;0;2
+2014-05-08;Quinta;174;885.0;Falta de atenção;Colisão traseira;Anoitecer;Ceu Claro;0;2;0
+2014-05-17;Sábado;174;947.0;Falta de atenção;Saída de Pista;Amanhecer;Chuva;0;3;0
+2014-05-22;Quinta;174;907.7;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Sol;0;0;0
+2014-05-30;Sexta;174;925.0;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+2014-05-31;Sábado;174;938.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;1;1
+2014-06-01;Domingo;174;949.0;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;1;1
+2014-06-01;Domingo;174;930.5;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+2014-06-01;Domingo;174;963.0;Defeito mecânico em veículo;Queda de motocicleta / bicicleta / veículo;Pleno dia;Ceu Claro;0;0;2
+2014-06-04;Quarta;174;934.0;Outras;Saída de Pista;Plena noite;Nublado;0;1;0
+2014-06-03;Terça;174;1126.0;Defeito na via;Saída de Pista;Anoitecer;Ignorada;0;1;0
+2014-01-05;Domingo;174;953.0;Velocidade incompatível;Saída de Pista;Pleno dia;Ignorada;0;0;0
+2014-06-05;Quinta;174;890.0;Velocidade incompatível;Saída de Pista;Anoitecer;Chuva;0;2;0
+2014-06-25;Quarta;174;887.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;5;0
+2014-04-11;Sexta;174;884.8;Ultrapassagem indevida;Colisão frontal;Pleno dia;Ceu Claro;0;1;1
+2014-04-09;Quarta;174;960.0;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+2014-07-14;Segunda;174;955.0;Dormindo;Saída de Pista;Amanhecer;Ceu Claro;0;0;1
+2014-07-27;Domingo;174;904.0;Ingestão de álcool;Colisão lateral;Pleno dia;Ceu Claro;0;4;1
+2014-07-26;Sábado;174;926.0;Ingestão de álcool;Colisão traseira;Anoitecer;Ceu Claro;0;2;0
+2014-08-01;Sexta;174;930.0;Dormindo;Tombamento;Pleno dia;Sol;0;1;0
+2014-08-07;Quinta;174;887.0;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+2014-08-09;Sábado;174;935.0;Dormindo;Colisão com objeto fixo;Plena noite;Ceu Claro;0;1;0
+2014-08-13;Quarta;174;905.0;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;1;0
+2014-08-23;Sábado;174;918.0;Outras;Colisão frontal;Amanhecer;Ceu Claro;2;2;0
+2014-08-24;Domingo;319;1.0;Ingestão de álcool;Colisão lateral;Pleno dia;Ceu Claro;0;4;0
+2014-09-04;Quinta;174;886.0;Falta de atenção;Saída de Pista;Anoitecer;Ceu Claro;0;0;1
+2014-09-02;Terça;174;886.0;Outras;Atropelamento de pessoa;Plena noite;Ceu Claro;1;0;0
+2014-08-07;Quinta;174;927.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2014-09-06;Sábado;174;891.0;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;1;1
+2014-09-07;Domingo;174;887.0;Falta de atenção;Colisão traseira;Anoitecer;Ceu Claro;0;7;0
+2014-09-15;Segunda;174;915.0;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;1;0
+2014-10-04;Sábado;174;923.9;Ultrapassagem indevida;Colisão frontal;Plena noite;Ceu Claro;0;1;1
+2014-10-02;Quinta;174;912.0;Velocidade incompatível;Atropelamento de pessoa;Pleno dia;Nublado;1;2;0
+2014-10-18;Sábado;174;902.1;Outras;Colisão lateral;Pleno dia;Chuva;0;1;2
+2014-10-20;Segunda;174;907.0;Outras;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+2014-10-24;Sexta;174;889.0;Ultrapassagem indevida;Saída de Pista;Pleno dia;Chuva;0;0;1
+2014-10-28;Terça;174;963.0;Outras;Tombamento;Pleno dia;Sol;0;1;2
+2014-10-30;Quinta;319;0.8;Velocidade incompatível;Atropelamento de pessoa;Plena noite;Ceu Claro;0;1;1
+2014-11-03;Segunda;174;956.0;Defeito mecânico em veículo;Capotamento;Pleno dia;Sol;0;0;2
+2014-11-04;Terça;174;921.0;Outras;Saída de Pista;Pleno dia;Chuva;0;2;0
+2014-11-05;Quarta;174;912.0;Outras;Capotamento;Pleno dia;Chuva;0;0;0
+2014-11-09;Domingo;174;929.0;Outras;Saída de Pista;Pleno dia;Chuva;0;2;0
+2014-11-15;Sábado;174;893.0;Velocidade incompatível;Colisão lateral;Anoitecer;Chuva;0;0;5
+2014-11-19;Quarta;174;899.6;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+2014-11-20;Quinta;174;974.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;9;0
+2014-11-19;Quarta;174;974.0;Outras;Saída de Pista;Pleno dia;Chuva;1;0;0
+2014-12-01;Segunda;174;894.0;Outras;Colisão Transversal;Pleno dia;Ceu Claro;0;2;0
+2014-11-29;Sábado;174;924.0;Outras;Colisão com objeto fixo;Anoitecer;Ceu Claro;0;6;0
+2014-12-14;Domingo;174;948.0;Velocidade incompatível;Saída de Pista;Pleno dia;Chuva;0;2;2
+2014-12-15;Segunda;174;916.0;Velocidade incompatível;Atropelamento de pessoa;Plena noite;Ceu Claro;1;2;0
+2014-12-19;Sexta;319;1.0;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Nublado;0;4;0
+2014-12-21;Domingo;174;887.0;Ultrapassagem indevida;Colisão Transversal;Anoitecer;Ignorada;0;0;0
+2014-02-15;Sábado;174;968.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2014-10-14;Terça;174;901.0;Velocidade incompatível;Colisão traseira;Plena noite;Nublado;0;1;3
+2015-01-03;Sábado;174;939.0;Velocidade incompatível;Saída de Pista;Pleno dia;Ceu Claro;2;0;5
+2015-01-07;Quarta;174;1080.0;Defeito mecânico em veículo;Incêndio;Pleno dia;Ceu Claro;0;2;0
+2015-01-21;Quarta;174;894.2;Velocidade incompatível;Colisão Transversal;Anoitecer;Chuva;0;3;0
+2015-01-21;Quarta;319;1.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2015-01-17;Sábado;174;928.0;Outras;Saída de Pista;Plena noite;Nevoeiro/neblina;0;0;1
+2015-02-01;Domingo;174;908.0;Velocidade incompatível;Saída de Pista;Amanhecer;Nevoeiro/neblina;0;0;0
+2015-02-03;Terça;174;961.0;Ingestão de álcool;Colisão traseira;Anoitecer;Ceu Claro;0;5;0
+2015-01-05;Segunda;174;1002.0;Defeito na via;Saída de Pista;Plena noite;Nublado;0;2;0
+2015-02-08;Domingo;174;889.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;12;1
+2015-02-11;Quarta;174;903.0;Ultrapassagem indevida;Colisão lateral;Pleno dia;Ceu Claro;0;1;1
+2015-02-14;Sábado;174;924.0;Falta de atenção;Colisão traseira;Pleno dia;Ceu Claro;0;2;0
+2015-03-06;Sexta;174;921.5;Não guardar distância de segurança;Colisão traseira;Anoitecer;Ceu Claro;0;2;0
+2015-03-10;Terça;174;973.0;Falta de atenção;Colisão traseira;Amanhecer;Ceu Claro;0;2;0
+2015-03-30;Segunda;174;901.5;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;3;0
+2015-03-31;Terça;174;968.0;Outras;Saída de Pista;Pleno dia;Chuva;0;0;1
+2015-04-18;Sábado;174;953.0;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;4;0
+2015-04-19;Domingo;174;940.0;Outras;Incêndio;Amanhecer;Ceu Claro;0;2;0
+2015-04-19;Domingo;174;923.0;Defeito mecânico em veículo;Colisão traseira;Pleno dia;Ceu Claro;0;3;1
+2015-04-19;Domingo;174;918.0;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;9;0
+2015-04-25;Sábado;174;925.0;Outras;Saída de Pista;Pleno dia;Nublado;0;0;1
+2015-05-09;Sábado;319;0.0;Outras;Colisão traseira;Pleno dia;Sol;0;2;0
+2015-05-17;Domingo;174;900.0;Falta de atenção;Colisão frontal;Pleno dia;Sol;0;3;5
+2015-05-25;Segunda;319;1.0;Falta de atenção;Colisão Transversal;Pleno dia;Sol;0;2;0
+2015-05-26;Terça;319;0.0;Falta de atenção;Colisão Transversal;Pleno dia;Sol;0;3;0
+2015-06-04;Quinta;174;898.0;Falta de atenção;Queda de motocicleta / bicicleta / veículo;Plena noite;Nevoeiro/neblina;0;0;0
+2015-06-07;Domingo;174;943.0;Ultrapassagem indevida;Colisão traseira;Pleno dia;Ceu Claro;0;4;2
+2015-06-05;Sexta;174;919.0;Falta de atenção;Colisão frontal;Plena noite;Ceu Claro;0;0;2
+2015-06-06;Sábado;174;937.0;Não guardar distância de segurança;Colisão traseira;Anoitecer;Ceu Claro;0;7;0
+2015-06-05;Sexta;174;981.9;Velocidade incompatível;Saída de Pista;Plena noite;Nevoeiro/neblina;0;0;4
+2015-06-14;Domingo;174;893.0;Defeito mecânico em veículo;Colisão frontal;Pleno dia;Ceu Claro;1;1;1
+2015-06-25;Quinta;174;941.0;Defeito mecânico em veículo;Capotamento;Pleno dia;Sol;1;0;1
+2015-06-27;Sábado;174;922.0;Velocidade incompatível;Atropelamento de pessoa;Pleno dia;Ceu Claro;1;2;0
+2015-06-06;Sábado;174;957.0;Animais na Pista;Saída de Pista;Pleno dia;Nublado;0;2;1
+2015-07-26;Domingo;174;886.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2015-08-12;Quarta;174;896.5;Ultrapassagem indevida;Colisão lateral;Pleno dia;Nublado;0;1;0
+2015-08-19;Quarta;174;887.0;Ultrapassagem indevida;Saída de Pista;Pleno dia;Sol;0;0;0
+2015-08-22;Sábado;319;0.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;1;1
+2015-08-25;Terça;174;918.0;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;2;0
+2015-09-07;Segunda;174;955.0;Defeito mecânico em veículo;Incêndio;Pleno dia;Ceu Claro;0;4;0
+2015-09-21;Segunda;319;1.0;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;2;0
+2015-09-19;Sábado;174;940.0;Ingestão de álcool;Saída de Pista;Pleno dia;Sol;0;0;1
+2015-09-26;Sábado;174;885.0;Falta de atenção;Colisão frontal;Anoitecer;Ceu Claro;0;1;1
+2015-09-24;Quinta;174;889.0;Falta de atenção;Tombamento;Anoitecer;Ceu Claro;0;0;1
+2015-10-03;Sábado;174;950.0;Outras;Capotamento;Pleno dia;Sol;0;0;4
+2015-10-12;Segunda;174;894.0;Não guardar distância de segurança;Saída de Pista;Plena noite;Ignorada;0;1;5
+2015-09-11;Sexta;174;910.0;Dormindo;Colisão traseira;Pleno dia;Ceu Claro;1;3;0
+2015-10-25;Domingo;174;953.0;Defeito mecânico em veículo;Tombamento;Pleno dia;Sol;0;1;0
+2015-10-25;Domingo;174;909.0;Ingestão de álcool;Colisão traseira;Plena noite;Ceu Claro;0;1;2
+2015-11-01;Domingo;174;953.0;Outras;Saída de Pista;Pleno dia;Ceu Claro;1;1;3
+2015-11-07;Sábado;174;935.0;Dormindo;Colisão frontal;Pleno dia;Ceu Claro;0;0;3
+2015-11-09;Segunda;174;940.0;Ultrapassagem indevida;Saída de Pista;Pleno dia;Ceu Claro;0;2;0
+2015-11-10;Terça;174;884.0;Ultrapassagem indevida;Colisão lateral;Pleno dia;Sol;0;2;0
+2015-11-13;Sexta;174;901.2;Falta de atenção;Colisão lateral;Pleno dia;Sol;0;2;0
+2015-11-22;Domingo;174;918.0;Ultrapassagem indevida;Saída de Pista;Anoitecer;Ceu Claro;0;1;0
+2015-12-06;Domingo;174;900.0;Falta de atenção;Colisão Transversal;Anoitecer;Nublado;0;1;5
+2015-12-10;Quinta;174;998.0;Defeito mecânico em veículo;Colisão traseira;Anoitecer;Ceu Claro;0;1;1
+2015-12-12;Sábado;174;913.0;Outras;Atropelamento de pessoa;Plena noite;Ceu Claro;1;0;0
+2015-12-19;Sábado;174;923.0;Falta de atenção;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+2015-12-21;Segunda;174;968.5;Outras;Saída de Pista;Pleno dia;Chuva;0;0;1
+2015-12-23;Quarta;174;968.9;Defeito na via;Saída de Pista;Anoitecer;Chuva;0;0;1
+2015-12-20;Domingo;174;909.0;Outras;Saída de Pista;Amanhecer;Nublado;0;2;0
+13/01/16;Quarta;174;921;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+15/01/16;Sexta;174;957;Dormindo;Colisão frontal;Pleno dia;Ceu Claro;0;1;1
+16/01/16;Sábado;174;945;Outras;Danos Eventuais;Pleno dia;Ceu Claro;0;0;1
+17/01/16;Domingo;174;897;Defeito na via;Capotamento;Pleno dia;Sol;0;1;0
+31/01/16;Domingo;174;891,9;Outras;Incêndio;Amanhecer;Ceu Claro;0;1;0
+03/02/16;Quarta;174;927;Outras;Saída de Pista;Pleno dia;Nublado;0;2;0
+08/02/16;Segunda;174;1055;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;2;1
+12/02/16;Sexta;174;912;Ultrapassagem indevida;Capotamento;Pleno dia;Ceu Claro;0;0;1
+20/02/16;Sábado;174;916;Defeito mecânico em veículo;Saída de Pista;Anoitecer;Ceu Claro;0;0;1
+04/03/16;Sexta;174;988;Outras;Atropelamento de pessoa;Amanhecer;Ceu Claro;1;0;0
+25/03/16;Sexta;174;933;Outras;Colisão com objeto fixo;Amanhecer;Chuva;0;1;0
+27/03/16;Domingo;174;929;Ingestão de álcool;Colisão com objeto fixo;Anoitecer;Ceu Claro;1;0;4
+07/04/16;Quinta;174;891,7;Falta de atenção;Colisão Transversal;Pleno dia;Sol;0;2;2
+07/04/16;Quinta;174;909;Dormindo;Saída de Pista;Amanhecer;Ceu Claro;0;41;4
+10/04/16;Domingo;174;887;Ingestão de álcool;Colisão frontal;Anoitecer;Ceu Claro;0;2;0
+23/04/16;Sábado;174;930;Dormindo;Saída de Pista;Plena noite;Nevoeiro/neblina;0;0;1
+25/05/16;Quarta;174;885;Falta de atenção;Colisão lateral;Pleno dia;Ceu Claro;0;1;2
+27/05/16;Sexta;174;919;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;3;0
+03/06/16;Sexta;174;904;Outras;Capotamento;Pleno dia;Chuva;0;0;4
+05/06/16;Domingo;174;884;Ultrapassagem indevida;Colisão frontal;Pleno dia;Ceu Claro;0;1;5
+19/06/16;Domingo;174;895;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;3;0
+20/06/16;Segunda;174;899;Ingestão de álcool;Colisão traseira;Anoitecer;Ceu Claro;0;0;4
+29/06/16;Quarta;319;18;Defeito na via;Saída de Pista;Anoitecer;Ceu Claro;0;4;0
+30/06/16;Quinta;174;939;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+30/06/16;Quinta;174;889;Falta de atenção;Colisão Transversal;Plena noite;Ceu Claro;0;2;0
+15/07/16;Sexta;174;959;Outras;Saída de Pista;Plena noite;Ceu Claro;0;0;2
+25/07/16;Segunda;174;884;Desobediência à sinalização;Colisão frontal;Plena noite;Ceu Claro;0;1;0
+29/07/16;Sexta;174;973;Outras;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+31/07/16;Domingo;174;904,9;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;4;1
+31/07/16;Domingo;174;907,6;Falta de atenção;Atropelamento de pessoa;Plena noite;Chuva;0;0;0
+31/07/16;Domingo;174;887;Outras;Atropelamento de pessoa;Anoitecer;Ceu Claro;0;0;1
+07/08/16;Domingo;174;915;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;1;0
+12/08/16;Sexta;174;904,9;Outras;Colisão lateral;Pleno dia;Ceu Claro;0;2;1
+12/08/16;Sexta;174;929;Defeito mecânico em veículo;Saída de Pista;Pleno dia;Ceu Claro;0;1;0
+19/08/16;Sexta;174;941,1;Falta de atenção;Saída de Pista;Plena noite;Ceu Claro;0;0;1
+23/08/16;Terça;174;926;Falta de atenção;Colisão lateral;Pleno dia;Nublado;0;1;0
+21/08/16;Domingo;174;889;Não guardar distância de segurança;Colisão lateral;Plena noite;Ceu Claro;0;1;1
+05/08/16;Sexta;174;959;Desobediência à sinalização;Colisão traseira;Pleno dia;Chuva;0;0;3
+27/08/16;Sábado;174;953;Falta de atenção;Saída de Pista;Anoitecer;Nublado;0;1;2
+27/08/16;Sábado;174;965;Outras;Colisão com bicicleta;Plena noite;Nublado;1;1;0
+26/08/16;Sexta;174;893;Falta de atenção;Colisão traseira;Amanhecer;Ceu Claro;0;1;1
+31/08/16;Quarta;174;890;Outras;Colisão frontal;Pleno dia;Ceu Claro;1;0;1
+05/09/16;Segunda;174;937,8;Falta de atenção;Saída de Pista;Pleno dia;Nublado;0;2;2
+07/09/16;Quarta;174;908;Falta de atenção;Colisão frontal;Pleno dia;Ceu Claro;0;1;1
+20/09/16;Terça;174;892;Outras;Saída de Pista;Pleno dia;Chuva;0;1;0
+25/09/16;Domingo;174;938,8;Outras;Tombamento;Anoitecer;Ignorada;0;1;1
+24/09/16;Sábado;174;916;Dormindo;Saída de Pista;Plena noite;Ceu Claro;0;0;2
+04/10/16;Terça;174;886;Falta de atenção;Colisão Transversal;Pleno dia;Ceu Claro;0;1;2
+07/10/16;Sexta;174;905;Desobediência à sinalização;Colisão frontal;Amanhecer;Ceu Claro;0;0;1
+18/10/16;Terça;174;959;Dormindo;Saída de Pista;Pleno dia;Ceu Claro;0;0;1
+23/10/16;Domingo;174;990,9;Defeito mecânico em veículo;Colisão com objeto fixo;Pleno dia;Chuva;0;1;0
+25/10/16;Terça;174;914;Falta de atenção;Colisão traseira;Anoitecer;Chuva;0;3;0
+09/11/16;Quarta;174;962;Falta de atenção;Saída de Pista;Anoitecer;Nublado;0;0;2
+13/11/16;Domingo;174;903;Falta de atenção;Atropelamento de pessoa;Plena noite;Nevoeiro/neblina;1;0;0
+13/12/16;Terça;174;910;Animais na Pista;Capotamento;Pleno dia;Chuva;0;0;2
+14/12/16;Quarta;174;914;Outras;Saída de Pista;Pleno dia;Chuva;0;1;1
+26/12/16;Segunda;174;909;Não guardar distância de segurança;Colisão traseira;Pleno dia;Ceu Claro;0;4;0
+28/12/16;Quarta;319;1;Outras;Danos Eventuais;Plena noite;Ceu Claro;0;1;0
+2017-01-14;sábado;174.0;904;Falta de Atenção à Condução;Saída de leito carroçável;Plena Noite;Nublado;0;1;0
+2017-01-18;quarta-feira;174.0;890;Pista Escorregadia;Saída de leito carroçável;Pleno dia;Céu Claro;0;1;0
+2017-01-20;sexta-feira;174.0;947;Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo;Colisão com objeto estático;Plena Noite;Ignorado;0;2;0
+2017-01-28;sábado;174.0;914;Sinalização da via insuficiente ou inadequada;Colisão frontal;Plena Noite;Nevoeiro/Neblina;0;3;0
+2017-02-07;terça-feira;174.0;949;Objeto estático sobre o leito carroçável;Colisão com objeto estático;Pleno dia;Garoa/Chuvisco;0;1;0
+2017-02-09;quinta-feira;174.0;975;Ultrapassagem Indevida;Colisão frontal;Amanhecer;Garoa/Chuvisco;0;2;0
+2017-03-02;quinta-feira;174.0;940,3;Carga excessiva e/ou mal acondicionada;Tombamento;Pleno dia;Sol;0;0;1
+2017-03-31;sexta-feira;174.0;884;Falta de Atenção à Condução;Colisão transversal;Plena Noite;Nublado;0;2;6
+2017-04-15;sábado;174.0;898,9;Defeito Mecânico no Veículo;Incêndio;Pleno dia;Chuva;0;1;0
+2017-04-18;terça-feira;174.0;967;Avarias e/ou desgaste excessivo no pneu;Saída de leito carroçável;Pleno dia;Chuva;0;2;0
+2017-04-19;quarta-feira;174.0;916;Defeito Mecânico no Veículo;Saída de leito carroçável;Pleno dia;Sol;0;3;0
+2017-04-20;quinta-feira;174.0;955;Defeito na Via;Saída de leito carroçável;Pleno dia;Céu Claro;0;2;0
+2017-04-22;sábado;174.0;889;Avarias e/ou desgaste excessivo no pneu;Saída de leito carroçável;Pleno dia;Céu Claro;0;1;0
+2017-04-28;sexta-feira;174.0;891;Ingestão de Álcool;Saída de leito carroçável;Pleno dia;Céu Claro;0;1;0
+2017-04-29;sábado;174.0;904;Pista Escorregadia;Saída de leito carroçável;Pleno dia;Chuva;0;1;1
+2017-04-30;domingo;174.0;953;Velocidade Incompatível;Saída de leito carroçável;Pleno dia;Nublado;0;1;1
+2017-04-30;domingo;174.0;885;Não guardar distância de segurança;Colisão frontal;Plena Noite;Céu Claro;0;1;1
+2017-05-12;sexta-feira;174.0;953,7;Velocidade Incompatível;Saída de leito carroçável;Pleno dia;Céu Claro;0;1;0
+2017-05-25;quinta-feira;174.0;898;Ultrapassagem Indevida;Saída de leito carroçável;Pleno dia;Nublado;0;1;0
+2017-05-27;sábado;174.0;928;Avarias e/ou desgaste excessivo no pneu;Colisão traseira;Pleno dia;Céu Claro;0;2;0
+2017-05-29;segunda-feira;319.0;0;Falta de Atenção à Condução;Danos eventuais;Pleno dia;Céu Claro;0;1;0
+2017-06-13;terça-feira;174.0;894;Velocidade Incompatível;Colisão frontal;Plena Noite;Céu Claro;0;1;1
+2017-06-15;quinta-feira;174.0;975;Velocidade Incompatível;Colisão transversal;Pleno dia;Nublado;0;2;0
+2017-06-30;sexta-feira;174.0;959;Ultrapassagem Indevida;Danos eventuais;Pleno dia;Chuva;0;2;0
+2017-07-01;sábado;174.0;932;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Céu Claro;0;1;0
+2017-07-06;quinta-feira;174.0;913,9;Falta de Atenção à Condução;Colisão transversal;Pleno dia;Sol;0;2;0
+2017-07-09;domingo;174.0;898;Defeito Mecânico no Veículo;Incêndio;Anoitecer;Ignorado;0;1;0
+2017-07-24;segunda-feira;174.0;956;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Céu Claro;0;2;0
+2017-07-28;sexta-feira;174.0;884;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Céu Claro;0;2;0
+2017-08-28;segunda-feira;174.0;907,5;Animais na Pista;Atropelamento de Animal;Amanhecer;Sol;0;2;0
+2017-09-09;sábado;174.0;925;Velocidade Incompatível;Capotamento;Pleno dia;Céu Claro;0;0;0
+2017-09-08;sexta-feira;174.0;893;Ingestão de Álcool;Colisão lateral;Plena Noite;Céu Claro;0;2;0
+2017-09-09;sábado;174.0;958;Não guardar distância de segurança;Colisão traseira;Plena Noite;Céu Claro;0;1;1
+2017-10-02;segunda-feira;174.0;983;Defeito Mecânico no Veículo;Tombamento;Pleno dia;Sol;0;1;0
+2017-10-07;sábado;174.0;937;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Nublado;0;1;0
+2017-10-07;sábado;174.0;890;Carga excessiva e/ou mal acondicionada;Saída de leito carroçável;Plena Noite;Céu Claro;0;1;0
+2017-10-15;domingo;319.0;0,9;Defeito Mecânico no Veículo;Colisão frontal;Pleno dia;Garoa/Chuvisco;0;1;1
+2017-10-20;sexta-feira;319.0;0,9;Defeito Mecânico no Veículo;Colisão traseira;Pleno dia;Céu Claro;0;2;1
+2017-10-26;quinta-feira;174.0;885,7;Não guardar distância de segurança;Colisão traseira;Pleno dia;Chuva;0;1;4
+2017-10-28;sábado;174.0;888;Ultrapassagem Indevida;Colisão lateral;Anoitecer;Ignorado;0;0;1
+2017-04-25;terça-feira;174.0;913;Falta de Atenção à Condução;Atropelamento de Pedestre;Pleno dia;Chuva;0;0;1
+2017-11-20;segunda-feira;174.0;958;Restrição de Visibilidade;Colisão traseira;Plena Noite;Céu Claro;1;1;1
+2017-11-24;sexta-feira;174.0;894;Ultrapassagem Indevida;Colisão frontal;Plena Noite;Céu Claro;1;3;0
+2017-12-04;segunda-feira;174.0;885;Ultrapassagem Indevida;Colisão frontal;Plena Noite;Céu Claro;1;1;1
+2017-12-12;terça-feira;174.0;949;Condutor Dormindo;Saída de leito carroçável;Plena Noite;Chuva;0;1;0
+2017-12-13;quarta-feira;319.0;0,9;Falta de Atenção à Condução;Colisão com objeto estático;Pleno dia;Garoa/Chuvisco;0;2;0
+2017-12-13;quarta-feira;174.0;940;Falta de Atenção à Condução;Atropelamento de Pedestre;Pleno dia;Nublado;0;1;1
+2017-12-14;quinta-feira;174.0;888;Falta de Atenção à Condução;Engavetamento;Pleno dia;Nublado;0;4;0
+2017-12-21;quinta-feira;174.0;913;Animais na Pista;Atropelamento de Animal;Plena Noite;Céu Claro;0;0;1
+2017-12-26;terça-feira;174.0;924;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Nublado;0;3;1
+2018-01-04;quinta-feira;174.0;889;Ultrapassagem Indevida;Colisão frontal;Plena Noite;Nevoeiro/Neblina;0;0;5
+2018-01-29;segunda-feira;174.0;939,1;Ultrapassagem Indevida;Saída de leito carroçável;Pleno dia;Nublado;0;2;3
+2018-02-11;domingo;174.0;889;Ingestão de Álcool;Capotamento;Pleno dia;Céu Claro;0;1;1
+2018-02-12;segunda-feira;174.0;923,5;Falta de Atenção à Condução;Atropelamento de Pedestre;Plena Noite;Céu Claro;0;0;1
+2018-02-18;domingo;174.0;912;Ingestão de Álcool;Atropelamento de Pedestre;Plena Noite;Céu Claro;0;0;1
+2018-03-04;domingo;174.0;906,2;Animais na Pista;Atropelamento de Animal;Plena Noite;Nublado;1;0;1
+2018-03-10;sábado;174.0;892;Pista Escorregadia;Colisão com objeto estático;Pleno dia;Chuva;0;0;1
+2018-03-10;sábado;174.0;972;Desobediência às normas de trânsito pelo condutor;Colisão traseira;Pleno dia;Céu Claro;0;3;0
+2018-03-18;domingo;174.0;895,5;Ingestão de álcool e/ou substâncias psicoativas pelo pedestre;Atropelamento de Pedestre;Amanhecer;Nublado;0;0;1
+2018-03-22;quinta-feira;174.0;895;Desobediência às normas de trânsito pelo condutor;Colisão traseira;Amanhecer;Céu Claro;0;2;4
+2018-03-21;quarta-feira;174.0;916;Defeito Mecânico no Veículo;Capotamento;Plena Noite;Céu Claro;0;0;2
+2018-04-21;sábado;174.0;943,9;Ingestão de Álcool;Colisão com objeto estático;Plena Noite;Nublado;0;1;0
+2018-04-22;domingo;174.0;885;Ingestão de Álcool;Colisão traseira;Amanhecer;Nublado;1;1;0
+2018-04-22;domingo;174.0;913,5;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Plena Noite;Nublado;1;3;0
+2018-04-24;terça-feira;174.0;931;Pista Escorregadia;Colisão com objeto estático;Pleno dia;Chuva;0;1;0
+2018-04-27;sexta-feira;174.0;885;Desobediência às normas de trânsito pelo condutor;Colisão lateral;Pleno dia;Céu Claro;0;8;0
+2018-04-28;sábado;174.0;911;Objeto estático sobre o leito carroçável;Colisão com objeto estático;Plena Noite;Nublado;0;3;0
+2018-05-04;sexta-feira;;;Falta de Atenção à Condução;Engavetamento;Pleno dia;Céu Claro;0;3;0
+2018-05-09;quarta-feira;174.0;905;Desobediência às normas de trânsito pelo condutor;Colisão frontal;Anoitecer;Nublado;1;1;3
+2018-05-10;quinta-feira;174.0;944;Fenômenos da Natureza;Saída de leito carroçável;Amanhecer;Nevoeiro/Neblina;0;0;3
+2018-05-14;segunda-feira;174.0;965;Condutor Dormindo;Colisão traseira;Amanhecer;Chuva;0;4;0
+2018-05-20;domingo;174.0;967;Animais na Pista;Atropelamento de Animal;Pleno dia;Sol;0;0;1
+2018-05-17;quinta-feira;174.0;914;Desobediência às normas de trânsito pelo condutor;Colisão frontal;Plena Noite;Nublado;0;2;0
+2018-05-18;sexta-feira;174.0;895;Falta de Atenção à Condução;Atropelamento de Pedestre;Pleno dia;Céu Claro;0;1;1
+2018-06-08;sexta-feira;174.0;955;Falta de Atenção à Condução;Saída de leito carroçável;Amanhecer;Ignorado;0;0;0
+2018-06-10;domingo;174.0;958,1;Objeto estático sobre o leito carroçável;Colisão com objeto estático;Plena Noite;Nublado;0;2;3
+2018-06-15;sexta-feira;174.0;928,3;Falta de Atenção à Condução;Colisão com objeto estático;Pleno dia;Céu Claro;0;2;0
+2018-04-03;terça-feira;174.0;907;Desobediência às normas de trânsito pelo condutor;Colisão lateral;Amanhecer;Céu Claro;0;0;2
+2018-06-23;sábado;174.0;957,8;Defeito na Via;Saída de leito carroçável;Pleno dia;Céu Claro;0;0;1
+2018-06-25;segunda-feira;174.0;957;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Chuva;0;1;0
+2018-06-30;sábado;174.0;895;Ingestão de álcool e/ou substâncias psicoativas pelo pedestre;Saída de leito carroçável;Plena Noite;Céu Claro;0;1;1
+2018-07-01;domingo;174.0;943;Fenômenos da Natureza;Saída de leito carroçável;Pleno dia;Chuva;0;0;2
+2018-07-01;domingo;174.0;895;Falta de Atenção à Condução;Colisão traseira;Anoitecer;Nublado;0;1;1
+2018-07-07;sábado;174.0;970;Pista Escorregadia;Saída de leito carroçável;Pleno dia;Nublado;0;2;0
+2018-01-28;domingo;174.0;953;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Plena Noite;Céu Claro;1;5;0
+2018-07-22;domingo;174.0;956;Defeito na Via;Colisão traseira;Pleno dia;Sol;0;8;2
+2018-07-24;terça-feira;174.0;885,8;Falta de Atenção à Condução;Colisão lateral;Pleno dia;Céu Claro;1;2;0
+2018-07-25;quarta-feira;319.0;0,4;Não guardar distância de segurança;Colisão traseira;Anoitecer;Céu Claro;0;2;1
+2018-07-28;sábado;174.0;924;Avarias e/ou desgaste excessivo no pneu;Tombamento;Pleno dia;Céu Claro;0;0;2
+2018-08-10;sexta-feira;174.0;886;Ingestão de Álcool;Colisão lateral;Plena Noite;Céu Claro;0;1;1
+2018-08-11;sábado;319.0;0,8;Falta de Atenção à Condução;Tombamento;Amanhecer;Céu Claro;0;1;1
+2018-08-12;domingo;174.0;924;Falta de Atenção à Condução;Colisão transversal;Pleno dia;Garoa/Chuvisco;0;2;0
+2018-08-18;sábado;174.0;901;Falta de Atenção à Condução;Colisão lateral;Pleno dia;Céu Claro;0;2;1
+2018-08-29;quarta-feira;319.0;0,9;Falta de Atenção à Condução;Tombamento;Pleno dia;Céu Claro;0;0;1
+2018-08-29;quarta-feira;174.0;914;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Plena Noite;Nevoeiro/Neblina;0;0;1
+2018-09-01;sábado;174.0;948,6;Falta de Atenção à Condução;Colisão lateral;Pleno dia;Céu Claro;0;6;0
+2018-09-02;domingo;174.0;888;Desobediência às normas de trânsito pelo condutor;Saída de leito carroçável;Pleno dia;Céu Claro;0;2;0
+2018-09-11;terça-feira;174.0;895;Desobediência às normas de trânsito pelo condutor;Colisão frontal;Pleno dia;Céu Claro;0;3;0
+2018-09-21;sexta-feira;319.0;0,9;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Céu Claro;0;1;0
+2018-10-18;quinta-feira;174.0;927;Condutor Dormindo;Saída de leito carroçável;Plena Noite;Céu Claro;0;0;1
+2018-10-26;sexta-feira;174.0;597;Defeito na Via;Saída de leito carroçável;Plena Noite;Céu Claro;0;0;3
+2018-10-26;sexta-feira;174.0;957;Defeito na Via;Queda de ocupante de veículo;Plena Noite;Céu Claro;0;0;2
+2018-10-28;domingo;319.0;0,9;Falta de Atenção à Condução;Colisão com objeto estático;Pleno dia;Sol;0;5;0
+2018-11-11;domingo;174.0;948;Defeito Mecânico no Veículo;Incêndio;Pleno dia;Céu Claro;0;2;0
+2018-11-29;quinta-feira;174.0;891;Falta de Atenção à Condução;Colisão frontal;Pleno dia;Nublado;0;1;1
+2018-12-04;terça-feira;174.0;958;Defeito Mecânico no Veículo;Incêndio;Plena Noite;Céu Claro;0;1;0
+2018-11-18;domingo;174.0;887;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Nublado;0;3;1
+2018-12-22;sábado;174.0;934;Falta de Atenção à Condução;Capotamento;Pleno dia;Nublado;0;2;2
+2019-01-01;terça-feira;174.0;938;Ingestão de Álcool;Saída de leito carroçável;Pleno dia;Céu Claro;0;1;0
+2019-01-16;quarta-feira;174.0;894,3;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Plena Noite;Céu Claro;1;1;0
+2019-01-17;quinta-feira;174.0;980;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Ignorado;0;1;1
+2019-01-27;domingo;174.0;937;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Chuva;0;0;2
+2019-02-28;quinta-feira;174.0;901;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Nublado;0;1;0
+2019-03-14;quinta-feira;174.0;938;Fenômenos da Natureza;Saída de leito carroçável;Pleno dia;Chuva;0;0;4
+2019-04-02;terça-feira;174.0;947,9;Falta de Atenção à Condução;Danos eventuais;Pleno dia;Céu Claro;0;3;0
+2019-02-27;quarta-feira;174.0;887;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Pleno dia;Céu Claro;0;3;1
+2019-04-09;terça-feira;174.0;904;Falta de Atenção à Condução;Colisão frontal;Pleno dia;Chuva;0;1;0
+2019-04-19;sexta-feira;174.0;885,2;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Plena Noite;Nublado;1;0;0
+2019-04-30;terça-feira;174.0;908,1;Falta de Atenção à Condução;Danos eventuais;Pleno dia;Nublado;0;0;0
+2019-05-06;segunda-feira;174.0;910;Falta de Atenção à Condução;Capotamento;Amanhecer;Nublado;0;1;1
+2019-05-08;quarta-feira;174.0;891;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Céu Claro;0;2;0
+2019-06-01;sábado;174.0;895;Falta de Atenção à Condução;Saída de leito carroçável;Plena Noite;Nevoeiro/Neblina;0;3;0
+2019-06-02;domingo;174.0;932,5;Falta de Atenção à Condução;Colisão com objeto estático;Pleno dia;Céu Claro;0;6;0
+2019-03-05;terça-feira;174.0;899,4;Pista Escorregadia;Tombamento;Pleno dia;Chuva;0;0;2
+2019-06-30;domingo;174.0;886;Desobediência às normas de trânsito pelo condutor;Colisão lateral;Plena Noite;Céu Claro;0;0;2
+2019-07-01;segunda-feira;174.0;933,3;Desobediência às normas de trânsito pelo pedestre;Atropelamento de Pedestre;Plena Noite;Céu Claro;1;0;0
+2019-07-02;terça-feira;174.0;887;Falta de Atenção à Condução;Saída de leito carroçável;Plena Noite;Céu Claro;0;0;1
+2019-07-06;sábado;174.0;975;Condutor Dormindo;Saída de leito carroçável;Pleno dia;Sol;0;0;2
+2019-07-19;sexta-feira;174.0;939,6;Falta de Atenção à Condução;Saída de leito carroçável;Plena Noite;Céu Claro;0;1;2
+2019-07-27;sábado;174.0;898;Defeito Mecânico no Veículo;Incêndio;Anoitecer;Céu Claro;0;0;0
+2019-08-04;domingo;174.0;924;Desobediência às normas de trânsito pelo pedestre;Atropelamento de Pedestre;Plena Noite;Nublado;1;0;0
+2019-08-10;sábado;174.0;890;Desobediência às normas de trânsito pelo condutor;Colisão frontal;Pleno dia;Céu Claro;1;1;0
+2019-09-03;terça-feira;174.0;914;Fenômenos da Natureza;Colisão com objeto estático;Pleno dia;Chuva;0;1;0
+2019-09-22;domingo;174.0;887;Ingestão de Álcool;Colisão traseira;Anoitecer;Céu Claro;0;2;0
+2019-09-30;segunda-feira;174.0;894;Falta de Atenção à Condução;Colisão com objeto estático;Plena Noite;Céu Claro;0;1;0
+2019-10-12;sábado;174.0;962,2;Velocidade Incompatível;Colisão frontal;Pleno dia;Céu Claro;0;3;0
+2019-10-20;domingo;174.0;884,9;Ingestão de Álcool;Colisão traseira;Pleno dia;Garoa/Chuvisco;0;2;0
+2019-10-29;terça-feira;174.0;913,9;Avarias e/ou desgaste excessivo no pneu;Colisão com objeto estático;Pleno dia;Céu Claro;0;0;1
+2019-11-01;sexta-feira;174.0;884,2;Desobediência às normas de trânsito pelo condutor;Colisão transversal;Pleno dia;Céu Claro;0;1;1
+2019-11-08;sexta-feira;174.0;966,4;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Chuva;2;2;3
+2019-11-09;sábado;174.0;894;Desobediência às normas de trânsito pelo condutor;Saída de leito carroçável;Pleno dia;Céu Claro;0;0;1
+2019-11-13;quarta-feira;174.0;931;Avarias e/ou desgaste excessivo no pneu;Colisão frontal;Pleno dia;Chuva;0;2;4
+2019-11-18;segunda-feira;174.0;913;Defeito Mecânico no Veículo;Incêndio;Plena Noite;Céu Claro;0;1;0
+2019-12-06;sexta-feira;174.0;886;Desobediência às normas de trânsito pelo condutor;Colisão transversal;Pleno dia;Céu Claro;0;1;1
+2019-02-24;domingo;174.0;964;Condutor Dormindo;Saída de leito carroçável;Amanhecer;Céu Claro;0;0;1
+2019-12-17;terça-feira;174.0;954;Pista Escorregadia;Saída de leito carroçável;Pleno dia;Nublado;0;1;0
+2019-12-18;quarta-feira;174.0;897;Agressão Externa;Capotamento;Anoitecer;Céu Claro;0;0;1
+2019-12-20;sexta-feira;174.0;893;Defeito Mecânico no Veículo;Tombamento;Pleno dia;Sol;0;1;0
+2019-12-29;domingo;174.0;949;Restrição de Visibilidade;Atropelamento de Pedestre;Pleno dia;Céu Claro;1;1;0
+2020-01-05;domingo;174.0;972;Defeito Mecânico no Veículo;Saída de leito carroçável;Pleno dia;Sol;0;0;3
+2020-01-15;quarta-feira;174.0;924,9;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Céu Claro;1;0;0
+2020-02-04;terça-feira;174.0;972,1;Falta de Atenção à Condução;Saída de leito carroçável;Anoitecer;Céu Claro;0;0;0
+2020-02-02;domingo;174.0;900;Desobediência às normas de trânsito pelo condutor;Colisão com objeto estático;Pleno dia;Céu Claro;0;1;1
+2020-02-23;domingo;174.0;913,1;Ingestão de Álcool;Saída de leito carroçável;Anoitecer;Céu Claro;0;0;1
+2020-03-15;domingo;174.0;885;Ingestão de Álcool;Colisão frontal;Plena Noite;Céu Claro;0;4;0
+2020-03-17;terça-feira;174.0;928;Condutor Dormindo;Saída de leito carroçável;Pleno dia;Nublado;0;0;1
+2020-03-15;domingo;174.0;898;Ingestão de Álcool;Saída de leito carroçável;Plena Noite;Céu Claro;0;0;2
+2020-03-09;segunda-feira;174.0;967;Condutor Dormindo;Colisão com objeto estático;Pleno dia;Céu Claro;0;0;0
+2020-03-28;sábado;174.0;887;Ingestão de Álcool;Colisão lateral;Plena Noite;Céu Claro;0;1;1
+2020-04-04;sábado;174.0;888;Ingestão de Álcool;Colisão frontal;Plena Noite;Nublado;0;2;0
+2020-04-02;quinta-feira;174.0;892;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Plena Noite;Ignorado;0;0;1
+2020-04-17;sexta-feira;174.0;913;Ingestão de álcool e/ou substâncias psicoativas pelo pedestre;Colisão traseira;Plena Noite;Céu Claro;0;7;0
+2020-04-29;quarta-feira;174.0;915;Defeito Mecânico no Veículo;Queda de ocupante de veículo;Plena Noite;Céu Claro;0;0;1
+2020-04-21;terça-feira;174.0;889;Falta de Atenção à Condução;Colisão transversal;Plena Noite;Céu Claro;0;2;0
+2020-05-25;segunda-feira;174.0;887;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Plena Noite;Céu Claro;0;0;2
+2020-05-26;terça-feira;174.0;910;Animais na Pista;Atropelamento de Animal;Plena Noite;Céu Claro;0;3;1
+2020-06-04;quinta-feira;174.0;959;Condutor Dormindo;Saída de leito carroçável;Plena Noite;Céu Claro;0;0;3
+2020-06-07;domingo;174.0;916;Ingestão de Álcool;Saída de leito carroçável;Plena Noite;Céu Claro;0;0;3
+2020-07-02;quinta-feira;174.0;967;Restrição de Visibilidade;Atropelamento de Pedestre;Plena Noite;Nevoeiro/Neblina;1;1;0
+2020-07-11;sábado;174.0;944;Não guardar distância de segurança;Colisão traseira;Anoitecer;Chuva;0;1;3
+2020-07-12;domingo;174.0;886;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Céu Claro;0;0;2
+2020-07-25;sábado;174.0;900;Falta de Atenção à Condução;Colisão traseira;Plena Noite;Céu Claro;0;0;2
+2020-07-31;sexta-feira;174.0;944;Condutor Dormindo;Colisão com objeto estático;Plena Noite;Céu Claro;0;2;0
+2020-08-09;domingo;174.0;885;Ingestão de Álcool;Engavetamento;Pleno dia;Céu Claro;0;8;2
+2020-08-18;terça-feira;174.0;887;Desobediência às normas de trânsito pelo condutor;Colisão transversal;Pleno dia;Céu Claro;0;2;1
+2020-08-16;domingo;174.0;895;Não guardar distância de segurança;Colisão traseira;Anoitecer;Céu Claro;0;0;2
+2020-08-21;sexta-feira;174.0;898,4;Defeito Mecânico no Veículo;Incêndio;Plena Noite;Céu Claro;0;1;0
+2020-08-29;sábado;174.0;902;Falta de Atenção à Condução;Colisão lateral;Pleno dia;Céu Claro;0;2;1
+2020-08-29;sábado;174.0;894,5;Falta de Atenção à Condução;Tombamento;Plena Noite;Chuva;0;0;1
+2020-09-05;sábado;174.0;965;Restrição de Visibilidade;Colisão transversal;Plena Noite;Céu Claro;0;0;11
+2020-09-06;domingo;174.0;965;Não guardar distância de segurança;Colisão traseira;Pleno dia;Sol;0;2;2
+2020-09-13;domingo;174.0;962,2;Falta de Atenção à Condução;Engavetamento;Pleno dia;Céu Claro;0;20;5
+2020-09-22;terça-feira;174.0;885,5;Falta de Atenção à Condução;Colisão traseira;Pleno dia;Céu Claro;0;1;1
+2020-10-08;quinta-feira;174.0;898;Defeito Mecânico no Veículo;Incêndio;Pleno dia;Céu Claro;0;2;0
+2020-10-09;sexta-feira;174.0;976;Objeto estático sobre o leito carroçável;Colisão frontal;Pleno dia;Céu Claro;0;4;1
+2020-10-12;segunda-feira;174.0;920;Falta de Atenção à Condução;Saída de leito carroçável;Pleno dia;Céu Claro;0;0;4
+2020-10-28;quarta-feira;174.0;910;Defeito Mecânico no Veículo;Queda de ocupante de veículo;Plena Noite;Garoa/Chuvisco;0;0;2
+2020-10-31;sábado;174.0;903;Ingestão de Álcool;Colisão traseira;Anoitecer;Céu Claro;0;2;0
+2020-11-15;domingo;174.0;939;Falta de Atenção do Pedestre;Atropelamento de Pedestre;Pleno dia;Céu Claro;0;1;1
+2020-11-19;quinta-feira;174.0;958;Desobediência às normas de trânsito pelo condutor;Saída de leito carroçável;Amanhecer;Nublado;0;0;3
+2020-11-27;sexta-feira;174.0;940;Desobediência às normas de trânsito pelo condutor;Colisão lateral;Pleno dia;Nublado;0;1;2
+2020-11-28;sábado;174.0;908;Ingestão de Álcool;Colisão traseira;Plena Noite;Garoa/Chuvisco;0;1;0
+2020-12-07;segunda-feira;174.0;967;Falta de Atenção à Condução;Capotamento;Pleno dia;Chuva;0;0;1
+2020-12-08;terça-feira;174.0;941,2;Defeito na Via;Tombamento;Anoitecer;Nublado;0;0;1
+2020-12-09;quarta-feira;174.0;899;Falta de Atenção à Condução;Colisão transversal;Pleno dia;Chuva;1;1;0
+2020-12-21;segunda-feira;174.0;947;Falta de Atenção à Condução;Saída de leito carroçável;Plena Noite;Céu Claro;0;2;0
+2020-12-23;quarta-feira;174.0;921;Defeito na Via;Saída de leito carroçável;Pleno dia;Nublado;0;0;0
