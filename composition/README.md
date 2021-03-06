@@ -36,3 +36,7 @@ Quanto a porcentagem.
 
 
 ![](imgs/hbar_falta_atencao_anos_porcentagem.png)
+
+__Percentual da maior causa de acidentes do maior ano com o passar dos anos com base no percentual do total coletado dessa causa__
+
+![](imgs/waterfall_falta_atencao_anos.png)
